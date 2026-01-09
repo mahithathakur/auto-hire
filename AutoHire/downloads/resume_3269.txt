@@ -1,0 +1,7 @@
+Resume 3269
+Name: John Price
+Phone: 001-785-904-9661x2464
+Email: meyerashley@example.org
+Skills: matter, amount, exist, figure, region
+Education: MBA in Chartered, Amity University
+Experience: Osborne and Sons - Multimedia specialist (2023-08-11)

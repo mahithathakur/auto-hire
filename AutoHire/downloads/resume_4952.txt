@@ -1,0 +1,7 @@
+Resume 4952
+Name: Rebecca Brooks
+Phone: +1-718-221-3838
+Email: ericcollins@example.com
+Skills: base, foot, production, eight, book
+Education: BS in Neurosurgeon, IIT Delhi
+Experience: Morrison Group - Lecturer, further education (2022-08-29)

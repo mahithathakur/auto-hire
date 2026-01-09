@@ -1,0 +1,7 @@
+Resume 1235
+Name: Jake Davidson
+Phone: +1-399-238-5832x711
+Email: ybender@example.org
+Skills: people, book, now, style, special
+Education: B.Tech in Marine, IIT Delhi
+Experience: Thompson-Pitts - Geophysicist/field seismologist (2024-08-31)

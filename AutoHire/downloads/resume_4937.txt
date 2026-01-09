@@ -1,0 +1,7 @@
+Resume 4937
+Name: Adam Glass
+Phone: 231-557-2421
+Email: fpace@example.com
+Skills: nearly, door, relate, all, each
+Education: BS in Actuary, Stanford University
+Experience: Mcbride, Mason and Taylor - Passenger transport manager (2022-05-21)

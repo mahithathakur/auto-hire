@@ -1,0 +1,7 @@
+Resume 2222
+Name: John Moore
+Phone: (572)722-1903
+Email: ryan70@example.com
+Skills: easy, town, write, message, subject
+Education: BS in Scientist,, IIT Delhi
+Experience: Santiago, Fisher and Gallegos - Human resources officer (2021-11-05)

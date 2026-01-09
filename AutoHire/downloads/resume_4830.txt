@@ -1,0 +1,7 @@
+Resume 4830
+Name: Heather White
+Phone: 001-269-548-0479x126
+Email: fhudson@example.net
+Skills: bar, vote, five, treat, hand
+Education: M.Tech in Industrial, MIT
+Experience: White-Hayes - Programmer, applications (2021-11-22)

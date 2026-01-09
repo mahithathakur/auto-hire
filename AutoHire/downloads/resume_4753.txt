@@ -1,0 +1,7 @@
+Resume 4753
+Name: Amy Nguyen
+Phone: 283.415.5022
+Email: carljohnson@example.com
+Skills: summer, build, wife, wear, avoid
+Education: M.Tech in Radiographer,, Anna University
+Experience: Nguyen-Roach - Theatre manager (2022-12-21)

@@ -1,0 +1,7 @@
+Resume 400
+Name: Jennifer Harvey
+Phone: 4316159933
+Email: lball@example.net
+Skills: ground, kitchen, color, picture, laugh
+Education: B.Tech in Lobbyist, IIT Delhi
+Experience: Olson and Sons - Nurse, mental health (2022-04-24)

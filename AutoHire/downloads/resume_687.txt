@@ -1,0 +1,7 @@
+Resume 687
+Name: George Wallace
+Phone: +1-725-724-0735x4570
+Email: yyoung@example.com
+Skills: baby, force, capital, more, just
+Education: B.Tech in Engineering, Amity University
+Experience: Rush PLC - Airline pilot (2021-05-17)

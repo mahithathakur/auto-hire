@@ -1,0 +1,7 @@
+Resume 2740
+Name: Jose Rivas
+Phone: 6658837732
+Email: rjackson@example.org
+Skills: network, likely, recent, score, safe
+Education: BS in Risk, IIT Bombay
+Experience: Blake-Mahoney - Human resources officer (2022-10-08)

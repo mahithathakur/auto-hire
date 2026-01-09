@@ -1,0 +1,7 @@
+Resume 1100
+Name: Michael Warner
+Phone: 622.819.8420
+Email: sstewart@example.org
+Skills: claim, very, place, international, century
+Education: MBA in Senior, MIT
+Experience: Hughes and Sons - Cartographer (2021-04-04)

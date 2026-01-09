@@ -1,0 +1,7 @@
+Resume 160
+Name: Johnathan Leblanc
+Phone: 931.327.5136
+Email: xharding@example.org
+Skills: indicate, sometimes, ability, reveal, detail
+Education: M.Tech in Designer,, Amity University
+Experience: Carroll and Sons - Network engineer (2022-07-09)

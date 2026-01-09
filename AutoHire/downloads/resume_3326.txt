@@ -1,0 +1,7 @@
+Resume 3326
+Name: Kevin White
+Phone: 001-235-815-2402
+Email: kbrown@example.com
+Skills: always, language, until, because, through
+Education: B.Tech in Management, IIT Bombay
+Experience: Campbell, Davis and Jarvis - Chemical engineer (2022-08-29)

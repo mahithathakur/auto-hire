@@ -1,0 +1,7 @@
+Resume 4473
+Name: Eric Hall
+Phone: 445-671-2056
+Email: vvaughan@example.net
+Skills: traditional, small, standard, yes, member
+Education: M.Tech in Plant, NIT Trichy
+Experience: Mclaughlin Group - Rural practice surveyor (2022-12-30)

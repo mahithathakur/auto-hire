@@ -1,0 +1,7 @@
+Resume 4096
+Name: William Camacho
+Phone: 294.835.8867x801
+Email: qwallace@example.com
+Skills: style, almost, quality, wonder, or
+Education: M.Tech in Engineer,, Anna University
+Experience: Keller, Bryant and Price - Aid worker (2023-09-22)

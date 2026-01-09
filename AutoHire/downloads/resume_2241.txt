@@ -1,0 +1,7 @@
+Resume 2241
+Name: Steven Schmitt
+Phone: 001-347-604-7370
+Email: morenodavid@example.com
+Skills: ground, treatment, somebody, strong, claim
+Education: M.Tech in Geophysical, IIT Delhi
+Experience: Walker Inc - Information systems manager (2025-04-28)

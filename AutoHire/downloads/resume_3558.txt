@@ -1,0 +1,7 @@
+Resume 3558
+Name: Sally Walker
+Phone: 708-715-5140
+Email: reyeskeith@example.com
+Skills: consumer, region, teacher, per, news
+Education: MBA in Accounting, University of Oxford
+Experience: Johnson and Sons - Waste management officer (2021-09-10)

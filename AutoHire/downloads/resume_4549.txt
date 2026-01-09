@@ -1,0 +1,7 @@
+Resume 4549
+Name: Cody Barnes
+Phone: 854.541.9906
+Email: marckelley@example.net
+Skills: job, apply, work, a, table
+Education: B.Tech in Field, University of Oxford
+Experience: Mann-Hanson - Health promotion specialist (2020-06-23)

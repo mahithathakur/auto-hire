@@ -1,0 +1,7 @@
+Resume 470
+Name: Mark Murray
+Phone: 688.469.0434
+Email: tramirez@example.org
+Skills: many, as, thing, movement, Mr
+Education: M.Tech in Learning, MIT
+Experience: Spence, Stephenson and Rogers - Public relations officer (2022-02-07)

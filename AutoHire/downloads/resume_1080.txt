@@ -1,0 +1,7 @@
+Resume 1080
+Name: Scott Martin
+Phone: 702-620-4051
+Email: iwoods@example.org
+Skills: through, night, movement, arm, small
+Education: BA in Risk, Amity University
+Experience: West Inc - Multimedia specialist (2023-12-26)

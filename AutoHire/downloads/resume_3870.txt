@@ -1,0 +1,7 @@
+Resume 3870
+Name: James Barnes
+Phone: +1-836-725-2551x805
+Email: mark69@example.net
+Skills: local, west, relate, building, game
+Education: BS in Barista, Anna University
+Experience: Smith-Reed - Applications developer (2022-03-08)

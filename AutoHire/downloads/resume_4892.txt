@@ -1,0 +1,7 @@
+Resume 4892
+Name: Matthew Craig
+Phone: 371-608-1653
+Email: awalters@example.com
+Skills: enough, fish, pretty, book, economy
+Education: MBA in Lawyer, Harvard University
+Experience: Bernard-Smith - Engineer, structural (2021-05-24)

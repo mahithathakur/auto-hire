@@ -1,0 +1,7 @@
+Resume 74
+Name: Eric Hutchinson
+Phone: 438.292.8028
+Email: wcollins@example.com
+Skills: position, direction, play, child, amount
+Education: BA in Materials, Harvard University
+Experience: Hickman-Dudley - Copywriter, advertising (2020-07-26)

@@ -1,0 +1,7 @@
+Resume 3037
+Name: Michelle Taylor
+Phone: 9866705887
+Email: philip00@example.net
+Skills: plan, let, improve, student, past
+Education: BS in Intelligence, IIT Bombay
+Experience: Nelson Group - Research scientist (maths) (2020-10-09)

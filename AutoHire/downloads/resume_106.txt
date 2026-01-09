@@ -1,0 +1,7 @@
+Resume 106
+Name: Lisa Ballard
+Phone: +1-262-716-4851
+Email: xlambert@example.com
+Skills: attack, decade, material, college, everything
+Education: BA in Engineer,, Anna University
+Experience: Payne-Edwards - Customer service manager (2023-06-28)

@@ -1,0 +1,7 @@
+Resume 3210
+Name: Susan Wolfe
+Phone: 295.699.3277
+Email: fhunter@example.org
+Skills: husband, century, entire, lay, a
+Education: B.Tech in Production, University of Oxford
+Experience: Graham Inc - Energy manager (2022-08-05)

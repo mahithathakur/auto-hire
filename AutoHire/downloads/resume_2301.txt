@@ -1,0 +1,7 @@
+Resume 2301
+Name: Daniel Yang
+Phone: (429)250-6682
+Email: fblair@example.com
+Skills: while, law, fact, number, its
+Education: MBA in Sales, Stanford University
+Experience: Torres, Barajas and Howell - Data processing manager (2023-11-13)

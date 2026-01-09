@@ -1,0 +1,7 @@
+Resume 750
+Name: Trevor Jones
+Phone: +1-594-285-5907
+Email: amy38@example.org
+Skills: free, none, about, campaign, surface
+Education: BS in Publishing, Amity University
+Experience: Bailey-Delgado - Agricultural consultant (2021-02-28)

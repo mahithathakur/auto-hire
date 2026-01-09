@@ -1,0 +1,7 @@
+Resume 2060
+Name: Bruce Taylor
+Phone: 748.605.8220
+Email: wellsdavid@example.net
+Skills: board, set, quickly, become, us
+Education: BS in Corporate, IIT Delhi
+Experience: Baker-Burton - Engineer, materials (2021-11-16)

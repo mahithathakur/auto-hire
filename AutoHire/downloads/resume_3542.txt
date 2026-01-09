@@ -1,0 +1,7 @@
+Resume 3542
+Name: John Burton
+Phone: +1-241-552-0170x981
+Email: joe13@example.net
+Skills: doctor, interesting, sense, floor, usually
+Education: B.Tech in Community, MIT
+Experience: Baker LLC - Garment/textile technologist (2024-04-07)

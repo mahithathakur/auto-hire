@@ -1,0 +1,7 @@
+Resume 1139
+Name: Barry Smith
+Phone: 740-531-5597
+Email: morenodorothy@example.com
+Skills: hand, beautiful, material, live, one
+Education: BS in Financial, Amity University
+Experience: Mclaughlin, Brown and Holmes - General practice doctor (2022-05-12)

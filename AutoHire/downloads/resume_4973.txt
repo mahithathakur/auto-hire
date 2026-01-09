@@ -1,0 +1,7 @@
+Resume 4973
+Name: Kyle Kerr
+Phone: 989-947-9437
+Email: kelly79@example.org
+Skills: truth, beat, sometimes, chair, five
+Education: M.Tech in Aid, MIT
+Experience: Brown, Thomas and Mcintyre - Scientist, clinical (histocompatibility and immunogenetics) (2025-01-03)

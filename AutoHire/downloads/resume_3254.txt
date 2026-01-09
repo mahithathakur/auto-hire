@@ -1,0 +1,7 @@
+Resume 3254
+Name: Stephen Munoz
+Phone: 419.859.2903x4661
+Email: thomasmelinda@example.net
+Skills: design, chair, community, language, number
+Education: BS in Development, Stanford University
+Experience: Randolph-Martin - Financial trader (2021-10-28)

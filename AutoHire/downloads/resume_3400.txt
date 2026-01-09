@@ -1,0 +1,7 @@
+Resume 3400
+Name: Sandra Dorsey
+Phone: 523.727.5408
+Email: juliejensen@example.com
+Skills: nothing, in, executive, everyone, already
+Education: BS in Management, Stanford University
+Experience: Gilmore-Rodriguez - Architectural technologist (2021-06-30)

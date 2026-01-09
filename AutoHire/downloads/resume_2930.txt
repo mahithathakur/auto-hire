@@ -1,0 +1,7 @@
+Resume 2930
+Name: David Rogers
+Phone: 001-286-781-0585
+Email: tracy82@example.net
+Skills: north, half, buy, news, analysis
+Education: B.Tech in Lecturer,, Harvard University
+Experience: Willis PLC - Land/geomatics surveyor (2020-06-19)

@@ -1,0 +1,7 @@
+Resume 4698
+Name: Stephanie Snyder
+Phone: 8928140750
+Email: xjohnson@example.com
+Skills: win, language, high, doctor, important
+Education: BA in Systems, University of Oxford
+Experience: Thomas-Brown - IT trainer (2023-02-03)

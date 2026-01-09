@@ -1,0 +1,7 @@
+Resume 1535
+Name: Juan Jones
+Phone: (958)553-6849
+Email: torressteven@example.net
+Skills: third, suffer, certain, could, significant
+Education: BA in Further, University of Oxford
+Experience: Patterson, Orozco and Pennington - Software engineer (2023-05-15)

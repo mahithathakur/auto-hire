@@ -1,0 +1,7 @@
+Resume 4642
+Name: John Walker
+Phone: +1-354-889-9712x578
+Email: debrathomas@example.org
+Skills: under, interview, consider, message, great
+Education: M.Tech in Intelligence, Stanford University
+Experience: Smith, Cole and Rivera - Associate Professor (2023-04-08)

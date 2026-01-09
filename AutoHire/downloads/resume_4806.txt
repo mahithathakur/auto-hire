@@ -1,0 +1,7 @@
+Resume 4806
+Name: Michael Blake
+Phone: +1-453-867-6920
+Email: snelson@example.org
+Skills: ground, class, east, face, ever
+Education: BS in Nurse,, IIT Delhi
+Experience: Riley and Sons - Animal technologist (2023-05-30)

@@ -1,0 +1,7 @@
+Resume 2690
+Name: Stephanie Wilkerson
+Phone: 001-309-231-3868
+Email: dpeterson@example.org
+Skills: main, a, happen, both, practice
+Education: MBA in Teacher,, MIT
+Experience: Allen Group - Engineer, broadcasting (operations) (2025-05-07)

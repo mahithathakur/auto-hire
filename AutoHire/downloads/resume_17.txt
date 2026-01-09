@@ -1,0 +1,7 @@
+Resume 17
+Name: Sarah Valenzuela
+Phone: +1-317-841-3362x7904
+Email: obarnett@example.net
+Skills: rock, health, left, professor, ability
+Education: B.Tech in Pharmacist,, MIT
+Experience: Curtis, Wilson and Montgomery - Radiographer, diagnostic (2021-02-27)

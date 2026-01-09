@@ -1,0 +1,7 @@
+Resume 3701
+Name: Jennifer Lopez
+Phone: 896.622.1801
+Email: johnsondaniel@example.org
+Skills: north, west, article, give, environmental
+Education: B.Tech in Oceanographer, MIT
+Experience: Watson PLC - Tourist information centre manager (2023-09-20)

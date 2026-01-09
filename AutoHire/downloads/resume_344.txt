@@ -1,0 +1,7 @@
+Resume 344
+Name: Kristin Miller MD
+Phone: 7076585559
+Email: jamesholloway@example.net
+Skills: require, history, site, society, story
+Education: MBA in Futures, Amity University
+Experience: Dixon, Pearson and Walker - Pilot, airline (2025-06-06)

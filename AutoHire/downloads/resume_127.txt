@@ -1,0 +1,7 @@
+Resume 127
+Name: James Salazar
+Phone: 6579184145
+Email: austinmendez@example.com
+Skills: finish, push, year, hard, interesting
+Education: M.Tech in Games, Stanford University
+Experience: Friedman, Mathis and Johnson - Senior tax professional/tax inspector (2024-07-27)

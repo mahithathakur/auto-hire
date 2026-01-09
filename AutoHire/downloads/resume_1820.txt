@@ -1,0 +1,7 @@
+Resume 1820
+Name: Courtney Murray
+Phone: 870.748.4804
+Email: nhays@example.com
+Skills: left, term, step, maybe, mission
+Education: M.Tech in Occupational, Amity University
+Experience: Gutierrez, Johnson and Wilson - Engineer, electrical (2024-07-13)

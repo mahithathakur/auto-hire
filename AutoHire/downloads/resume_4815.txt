@@ -1,0 +1,7 @@
+Resume 4815
+Name: Lisa Green
+Phone: +1-735-658-7476
+Email: brianduke@example.org
+Skills: speak, wrong, why, along, according
+Education: M.Tech in Psychologist,, Harvard University
+Experience: Hernandez, Abbott and Anderson - Event organiser (2020-10-23)

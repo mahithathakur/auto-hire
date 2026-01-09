@@ -1,0 +1,7 @@
+Resume 1294
+Name: Joshua Hicks
+Phone: 001-637-931-5035
+Email: ipeterson@example.com
+Skills: number, whole, bed, lead, short
+Education: B.Tech in Engineer,, Anna University
+Experience: Gomez-Mathis - Senior tax professional/tax inspector (2023-03-18)

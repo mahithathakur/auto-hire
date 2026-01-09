@@ -1,0 +1,7 @@
+Resume 314
+Name: Jacob Drake
+Phone: 001-768-616-4402x2064
+Email: uramirez@example.net
+Skills: own, he, measure, west, floor
+Education: B.Tech in Field, Stanford University
+Experience: Stewart-Hill - Computer games developer (2022-10-26)

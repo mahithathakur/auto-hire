@@ -1,0 +1,7 @@
+Resume 3370
+Name: Emily Santos
+Phone: (894)682-2864
+Email: vavery@example.org
+Skills: nation, under, easy, others, few
+Education: M.Tech in Astronomer, Harvard University
+Experience: Frye Ltd - Ergonomist (2020-07-11)

@@ -1,0 +1,7 @@
+Resume 3501
+Name: Stanley Allen
+Phone: 402.865.5245
+Email: blake03@example.com
+Skills: after, consumer, plan, entire, number
+Education: M.Tech in Horticultural, IIT Delhi
+Experience: Lewis, Jones and Murphy - Maintenance engineer (2022-12-19)

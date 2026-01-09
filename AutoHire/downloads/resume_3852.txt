@@ -1,0 +1,7 @@
+Resume 3852
+Name: David Allen
+Phone: 647.267.3086
+Email: yspencer@example.com
+Skills: little, determine, second, same, radio
+Education: BA in Conservation, Harvard University
+Experience: Brady, Baldwin and Adams - Paramedic (2024-01-19)

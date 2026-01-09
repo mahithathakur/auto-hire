@@ -1,0 +1,7 @@
+Resume 2497
+Name: Amy Stevens
+Phone: 789-820-6046
+Email: lkelley@example.net
+Skills: data, force, clearly, partner, majority
+Education: BA in Systems, University of Oxford
+Experience: Davidson, Rivera and Jensen - Personnel officer (2020-06-30)

@@ -1,0 +1,7 @@
+Resume 422
+Name: Victoria Carter
+Phone: 392-345-2747
+Email: joymosley@example.org
+Skills: both, very, discuss, meet, conference
+Education: BA in Higher, IIT Bombay
+Experience: Mccarty PLC - Scientist, product/process development (2021-04-07)

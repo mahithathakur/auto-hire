@@ -1,0 +1,7 @@
+Resume 3401
+Name: Robert Diaz
+Phone: 9985049250
+Email: larcher@example.com
+Skills: put, order, language, realize, center
+Education: MBA in Make, Stanford University
+Experience: Lawson-Newton - Learning disability nurse (2023-07-18)

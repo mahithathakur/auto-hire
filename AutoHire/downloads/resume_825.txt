@@ -1,0 +1,7 @@
+Resume 825
+Name: Linda Williams
+Phone: 001-945-292-1176x869
+Email: donaldbryant@example.org
+Skills: senior, always, seat, behavior, note
+Education: BS in Clinical, NIT Trichy
+Experience: Myers and Sons - Systems analyst (2022-10-19)

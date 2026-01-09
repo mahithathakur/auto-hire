@@ -1,0 +1,7 @@
+Resume 800
+Name: Danny Rojas
+Phone: (248)590-0091
+Email: devin18@example.com
+Skills: physical, between, visit, bar, firm
+Education: M.Tech in Records, IIT Delhi
+Experience: Hanson Inc - Phytotherapist (2020-09-18)

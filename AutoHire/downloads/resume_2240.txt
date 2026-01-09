@@ -1,0 +1,7 @@
+Resume 2240
+Name: Miguel Davis
+Phone: 428.447.2193
+Email: gpatton@example.com
+Skills: single, able, since, sport, garden
+Education: BA in Naval, Anna University
+Experience: Olson, Lara and Terry - Scientist, clinical (histocompatibility and immunogenetics) (2024-04-28)

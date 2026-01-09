@@ -1,0 +1,7 @@
+Resume 4772
+Name: Larry Murphy
+Phone: 449.862.1251
+Email: bbecker@example.org
+Skills: nearly, economy, address, sign, wonder
+Education: BA in Radio, University of Oxford
+Experience: Lewis Group - Futures trader (2022-03-10)

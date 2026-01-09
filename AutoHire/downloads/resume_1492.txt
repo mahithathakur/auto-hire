@@ -1,0 +1,7 @@
+Resume 1492
+Name: Brian Phillips
+Phone: 001-687-212-7981
+Email: john54@example.net
+Skills: food, I, two, message, sell
+Education: B.Tech in Environmental, Harvard University
+Experience: Gardner PLC - Engineer, electrical (2021-09-28)

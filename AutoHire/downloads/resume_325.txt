@@ -1,0 +1,7 @@
+Resume 325
+Name: Amy Rich
+Phone: 4302685595
+Email: hodgefrank@example.org
+Skills: nor, beyond, try, water, law
+Education: M.Tech in Adult, Harvard University
+Experience: Mckee, Patrick and Pham - Proofreader (2022-08-31)

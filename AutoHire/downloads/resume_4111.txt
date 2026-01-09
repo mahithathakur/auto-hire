@@ -1,0 +1,7 @@
+Resume 4111
+Name: Tristan Jones
+Phone: 480.507.3731
+Email: jsantiago@example.com
+Skills: herself, statement, lay, thank, least
+Education: BS in Energy, IIT Delhi
+Experience: Dorsey Ltd - Engineer, maintenance (2024-05-08)

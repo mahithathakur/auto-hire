@@ -1,0 +1,7 @@
+Resume 347
+Name: Lisa Flores
+Phone: 678-734-9284
+Email: allenmatthew@example.com
+Skills: seven, a, phone, one, executive
+Education: B.Tech in Veterinary, Amity University
+Experience: Olson Ltd - Barrister (2020-12-12)

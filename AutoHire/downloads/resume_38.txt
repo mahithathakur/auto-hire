@@ -1,0 +1,7 @@
+Resume 38
+Name: Dr. Thomas Wheeler
+Phone: 929-573-0181
+Email: elizabethvaldez@example.com
+Skills: who, organization, yes, great, perhaps
+Education: M.Tech in Environmental, NIT Trichy
+Experience: Franklin, Wolfe and Bruce - Chief Financial Officer (2023-12-28)

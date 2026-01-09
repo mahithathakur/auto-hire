@@ -1,0 +1,7 @@
+Resume 467
+Name: Michael Johnson
+Phone: (556)398-2467
+Email: valerie96@example.com
+Skills: back, standard, fact, goal, result
+Education: B.Tech in Medical, Amity University
+Experience: Cameron Inc - Geoscientist (2021-04-23)

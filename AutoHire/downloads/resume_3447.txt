@@ -1,0 +1,7 @@
+Resume 3447
+Name: William Simmons
+Phone: (435)340-9025x5402
+Email: cfernandez@example.net
+Skills: skill, low, however, generation, relationship
+Education: M.Tech in Pharmacologist, IIT Delhi
+Experience: Lawrence LLC - Dispensing optician (2022-12-16)

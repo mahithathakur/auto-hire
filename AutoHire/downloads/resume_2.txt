@@ -1,0 +1,7 @@
+Resume 2
+Name: Daniel Burnett
+Phone: 7772101833
+Email: ajordan@example.net
+Skills: event, civil, drop, focus, evidence
+Education: BA in Trade, NIT Trichy
+Experience: Andrews LLC - Chartered loss adjuster (2023-12-09)

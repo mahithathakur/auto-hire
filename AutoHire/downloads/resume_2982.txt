@@ -1,0 +1,7 @@
+Resume 2982
+Name: Jonathan Espinoza
+Phone: 789-512-8714
+Email: srodriguez@example.org
+Skills: sense, third, discussion, decide, travel
+Education: B.Tech in Multimedia, University of Oxford
+Experience: Swanson, Douglas and Smith - Administrator, arts (2023-11-29)

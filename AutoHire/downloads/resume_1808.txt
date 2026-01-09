@@ -1,0 +1,7 @@
+Resume 1808
+Name: Roberto Jones
+Phone: 699-751-3333
+Email: zchoi@example.com
+Skills: kitchen, community, us, investment, wind
+Education: BS in Quantity, MIT
+Experience: Jordan-Williams - Music tutor (2021-08-23)

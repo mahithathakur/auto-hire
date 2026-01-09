@@ -1,0 +1,7 @@
+Resume 808
+Name: Morgan Fleming
+Phone: 310.565.4506
+Email: teresanewton@example.org
+Skills: often, nation, machine, church, picture
+Education: MBA in Technical, University of Oxford
+Experience: Bruce, Smith and Buchanan - Applications developer (2024-01-19)

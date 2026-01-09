@@ -1,0 +1,7 @@
+Resume 3383
+Name: Valerie Smith
+Phone: (899)572-1419
+Email: patrickthompson@example.org
+Skills: without, second, fine, five, state
+Education: MBA in Site, IIT Bombay
+Experience: Smith, Wolfe and Bell - Wellsite geologist (2022-05-13)

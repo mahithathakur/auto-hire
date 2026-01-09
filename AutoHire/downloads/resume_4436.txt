@@ -1,0 +1,7 @@
+Resume 4436
+Name: Mary Smith
+Phone: 522.312.7361
+Email: david33@example.org
+Skills: particular, television, sing, pattern, everybody
+Education: B.Tech in Secretary,, Harvard University
+Experience: Yoder-Taylor - Music tutor (2023-05-15)

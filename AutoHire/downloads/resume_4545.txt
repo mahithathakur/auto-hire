@@ -1,0 +1,7 @@
+Resume 4545
+Name: Andrew Higgins
+Phone: 411.759.9131
+Email: dsmith@example.net
+Skills: human, interview, same, fish, leave
+Education: M.Tech in Analytical, University of Oxford
+Experience: Becker-Walker - Industrial buyer (2021-08-15)

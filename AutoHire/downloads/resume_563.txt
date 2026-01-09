@@ -1,0 +1,7 @@
+Resume 563
+Name: Troy Bailey
+Phone: 830-895-0777
+Email: jpratt@example.org
+Skills: conference, boy, agent, write, now
+Education: BA in Public, Harvard University
+Experience: Shaffer PLC - Water quality scientist (2020-10-05)

@@ -1,0 +1,7 @@
+Resume 462
+Name: Frank Leblanc
+Phone: 894.256.1912
+Email: vpham@example.net
+Skills: laugh, say, why, wide, usually
+Education: BA in Ceramics, Stanford University
+Experience: Shannon-Olson - Scientist, research (maths) (2021-06-29)

@@ -1,0 +1,7 @@
+Resume 2796
+Name: Roger Johnson
+Phone: 001-853-562-3171x7496
+Email: brandonjohnson@example.net
+Skills: out, name, must, charge, open
+Education: BA in Landscape, Harvard University
+Experience: Powell, Giles and Peterson - Writer (2022-04-03)

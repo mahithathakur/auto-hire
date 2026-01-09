@@ -1,0 +1,7 @@
+Resume 176
+Name: William Acevedo
+Phone: (435)750-5050
+Email: walkerrobert@example.com
+Skills: join, clear, power, lawyer, member
+Education: BS in Patent, University of Oxford
+Experience: Jenkins Ltd - Engineer, maintenance (IT) (2022-05-31)

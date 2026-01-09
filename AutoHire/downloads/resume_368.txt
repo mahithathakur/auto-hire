@@ -1,0 +1,7 @@
+Resume 368
+Name: Mark Stout
+Phone: 573.454.9734
+Email: davisvicki@example.com
+Skills: similar, guess, think, building, eye
+Education: MBA in Software, Harvard University
+Experience: Bailey-Russell - Medical sales representative (2023-07-16)

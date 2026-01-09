@@ -1,0 +1,7 @@
+Resume 903
+Name: Maria Johnson
+Phone: 432.958.6588
+Email: pmullins@example.com
+Skills: standard, compare, art, memory, policy
+Education: MBA in Production, Stanford University
+Experience: Moore Ltd - Journalist, magazine (2024-04-19)

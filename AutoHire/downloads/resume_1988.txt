@@ -1,0 +1,7 @@
+Resume 1988
+Name: Anna Goodman
+Phone: 249-457-0265
+Email: taylorneil@example.com
+Skills: situation, receive, personal, moment, finish
+Education: MBA in Event, Harvard University
+Experience: Johnson LLC - Engineer, control and instrumentation (2025-01-05)

@@ -1,0 +1,7 @@
+Resume 3988
+Name: Patricia Martinez
+Phone: 954.692.2006x280
+Email: steve34@example.org
+Skills: level, stay, house, leader, watch
+Education: BA in Purchasing, Harvard University
+Experience: Lee, Boyd and Perry - Technical sales engineer (2022-09-30)

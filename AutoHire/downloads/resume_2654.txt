@@ -1,0 +1,7 @@
+Resume 2654
+Name: Larry Austin
+Phone: 351-487-2484
+Email: mariemcgee@example.net
+Skills: dark, none, and, today, campaign
+Education: B.Tech in Public, Amity University
+Experience: Figueroa-Jackson - Building control surveyor (2022-08-28)

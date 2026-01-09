@@ -1,0 +1,7 @@
+Resume 4237
+Name: Seth Mills
+Phone: 658.890.0250x936
+Email: ijenkins@example.org
+Skills: main, pretty, weight, economic, meeting
+Education: BA in Doctor,, Harvard University
+Experience: Estrada-Hernandez - Pathologist (2023-08-19)

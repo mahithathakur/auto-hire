@@ -1,0 +1,7 @@
+Resume 1327
+Name: Michael Stokes
+Phone: +1-344-338-7286x0349
+Email: cweaver@example.org
+Skills: early, recent, range, specific, control
+Education: BA in Database, IIT Bombay
+Experience: Clark-Wong - Ecologist (2022-11-18)

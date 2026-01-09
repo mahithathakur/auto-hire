@@ -1,0 +1,7 @@
+Resume 930
+Name: Alejandro Davidson
+Phone: 5643602515
+Email: alexander12@example.org
+Skills: three, raise, power, throw, total
+Education: M.Tech in Clinical, MIT
+Experience: Logan and Sons - Building surveyor (2024-12-25)

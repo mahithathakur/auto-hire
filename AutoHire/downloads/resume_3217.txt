@@ -1,0 +1,7 @@
+Resume 3217
+Name: Anita Gutierrez
+Phone: (897)374-4283
+Email: george15@example.com
+Skills: do, key, like, true, build
+Education: B.Tech in Financial, Stanford University
+Experience: Young, Sullivan and Downs - Historic buildings inspector/conservation officer (2022-07-02)

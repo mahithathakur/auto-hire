@@ -1,0 +1,7 @@
+Resume 194
+Name: Diana Walters
+Phone: 4755899298
+Email: rwarner@example.net
+Skills: baby, technology, difference, can, soon
+Education: B.Tech in Corporate, University of Oxford
+Experience: Ferguson, Daniels and Williams - Web designer (2023-02-19)

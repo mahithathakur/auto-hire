@@ -1,0 +1,7 @@
+Resume 1167
+Name: John Anderson
+Phone: +1-250-217-1001x8975
+Email: smithrichard@example.org
+Skills: join, news, perform, call, security
+Education: MBA in English, IIT Delhi
+Experience: Graves, Barnes and Reyes - Airline pilot (2025-01-20)

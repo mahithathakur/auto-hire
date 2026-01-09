@@ -1,0 +1,7 @@
+Resume 3641
+Name: Mark Clarke
+Phone: 281.351.4821
+Email: klopez@example.org
+Skills: main, get, seat, black, become
+Education: M.Tech in Pharmacist,, NIT Trichy
+Experience: Logan Group - Engineer, structural (2021-12-07)

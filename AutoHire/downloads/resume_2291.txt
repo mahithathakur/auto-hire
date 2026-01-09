@@ -1,0 +1,7 @@
+Resume 2291
+Name: James Berg
+Phone: 6266874953
+Email: gardnergerald@example.org
+Skills: still, live, method, author, action
+Education: BS in Private, Harvard University
+Experience: Williams PLC - Engineer, technical sales (2025-05-03)

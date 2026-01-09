@@ -1,0 +1,7 @@
+Resume 681
+Name: Rita Bonilla
+Phone: 001-856-692-2787
+Email: tinawashington@example.org
+Skills: claim, visit, second, author, degree
+Education: B.Tech in Health, NIT Trichy
+Experience: Jones-Lee - Scientist, research (maths) (2023-02-16)

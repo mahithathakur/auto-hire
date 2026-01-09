@@ -1,0 +1,7 @@
+Resume 402
+Name: Jennifer Brown
+Phone: 392-720-9209
+Email: elliotttravis@example.org
+Skills: common, next, foreign, their, church
+Education: M.Tech in Police, Amity University
+Experience: Moore, Holt and Christian - Geophysical data processor (2022-05-21)

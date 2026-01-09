@@ -1,0 +1,7 @@
+Resume 4450
+Name: Jim Edwards
+Phone: 686-775-7113
+Email: jack52@example.net
+Skills: strong, like, there, my, choose
+Education: B.Tech in Sales, Stanford University
+Experience: Ford-Gray - Engineer, aeronautical (2021-09-15)

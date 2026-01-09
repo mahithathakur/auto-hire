@@ -1,0 +1,7 @@
+Resume 3389
+Name: Raymond Garcia
+Phone: 7145918798
+Email: blee@example.net
+Skills: amount, result, when, head, assume
+Education: BA in Technical, IIT Delhi
+Experience: Hahn-Burton - Music therapist (2022-08-03)

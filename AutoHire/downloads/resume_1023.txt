@@ -1,0 +1,7 @@
+Resume 1023
+Name: Roger Norris
+Phone: (637)382-2000x2064
+Email: thomas03@example.org
+Skills: black, agree, we, technology, grow
+Education: M.Tech in Marine, Harvard University
+Experience: Gomez-Castaneda - Town planner (2024-08-24)

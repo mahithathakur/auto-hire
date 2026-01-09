@@ -1,0 +1,7 @@
+Resume 4221
+Name: James Graham
+Phone: (406)966-5061
+Email: ncooper@example.net
+Skills: history, sell, father, oil, dog
+Education: B.Tech in Scientist,, Anna University
+Experience: Williams Group - Fitness centre manager (2022-12-24)

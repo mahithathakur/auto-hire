@@ -1,0 +1,7 @@
+Resume 4200
+Name: David Rhodes
+Phone: 001-262-630-2043
+Email: alexander31@example.org
+Skills: property, nature, get, fight, race
+Education: BS in Public, IIT Delhi
+Experience: Lucas, Martinez and Jones - TEFL teacher (2021-11-10)

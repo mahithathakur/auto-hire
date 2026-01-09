@@ -1,0 +1,7 @@
+Resume 122
+Name: Wesley Kennedy
+Phone: 335.738.9031x0524
+Email: cooperjustin@example.org
+Skills: city, serious, a, soon, foreign
+Education: M.Tech in Data, IIT Delhi
+Experience: Wood-Martinez - Microbiologist (2024-02-01)

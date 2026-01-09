@@ -1,0 +1,7 @@
+Resume 3812
+Name: Patrick Miller
+Phone: 5106273091
+Email: williamhart@example.org
+Skills: house, glass, current, start, myself
+Education: BA in Engineering, Amity University
+Experience: Molina LLC - Editor, magazine features (2021-11-30)

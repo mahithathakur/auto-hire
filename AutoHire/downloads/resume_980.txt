@@ -1,0 +1,7 @@
+Resume 980
+Name: Brian Jacobson
+Phone: 001-461-773-6846
+Email: markacosta@example.org
+Skills: occur, force, should, along, politics
+Education: BS in Engineer,, University of Oxford
+Experience: Gomez and Sons - Press photographer (2021-03-27)

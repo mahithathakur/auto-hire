@@ -1,0 +1,7 @@
+Resume 2400
+Name: Louis Wilson
+Phone: +1-567-292-8132x6671
+Email: katherinehunt@example.com
+Skills: card, go, none, but, study
+Education: M.Tech in Commercial, IIT Bombay
+Experience: Allen Group - Software engineer (2022-05-04)

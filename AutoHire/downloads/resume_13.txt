@@ -1,0 +1,7 @@
+Resume 13
+Name: Paul Clark
+Phone: (922)350-8903x20978
+Email: smartinez@example.com
+Skills: book, admit, current, court, senior
+Education: BA in Engineer,, Amity University
+Experience: Pennington Group - Programme researcher, broadcasting/film/video (2020-09-12)

@@ -1,0 +1,7 @@
+Resume 2231
+Name: Daniel Olsen
+Phone: 001-711-492-9870x518
+Email: hallsierra@example.org
+Skills: let, challenge, fire, human, lawyer
+Education: B.Tech in Corporate, Stanford University
+Experience: Castillo, Palmer and Duffy - Surgeon (2024-05-13)

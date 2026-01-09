@@ -1,0 +1,7 @@
+Resume 3663
+Name: John Schmidt
+Phone: (283)997-8148
+Email: rebeccamiller@example.org
+Skills: beyond, information, bill, fire, modern
+Education: MBA in Building, IIT Bombay
+Experience: French, Green and Wilson - Hydrographic surveyor (2020-12-17)

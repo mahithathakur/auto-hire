@@ -1,0 +1,7 @@
+Resume 2637
+Name: Jason Adkins
+Phone: 678-619-5375x1199
+Email: mhebert@example.com
+Skills: why, tax, ready, article, how
+Education: BS in Engineer,, IIT Delhi
+Experience: Cherry, Santiago and Jefferson - Recycling officer (2022-03-01)

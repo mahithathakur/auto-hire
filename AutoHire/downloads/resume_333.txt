@@ -1,0 +1,7 @@
+Resume 333
+Name: Brian Jones
+Phone: +1-339-733-6786x5449
+Email: thomas41@example.com
+Skills: recent, against, throughout, news, economy
+Education: MBA in Market, NIT Trichy
+Experience: Jensen, Barrett and Whitney - Data scientist (2023-10-07)

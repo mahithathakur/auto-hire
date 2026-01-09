@@ -1,0 +1,7 @@
+Resume 4910
+Name: Richard Smith
+Phone: (792)567-7026x526
+Email: ppatterson@example.org
+Skills: field, support, by, fund, gas
+Education: M.Tech in Comptroller, NIT Trichy
+Experience: Hammond-Farley - Insurance claims handler (2020-07-27)

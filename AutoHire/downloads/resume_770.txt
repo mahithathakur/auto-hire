@@ -1,0 +1,7 @@
+Resume 770
+Name: Bradley Burns
+Phone: 873.772.8831
+Email: brendafrank@example.org
+Skills: pay, keep, source, knowledge, probably
+Education: BS in Music, Harvard University
+Experience: Collins-Beltran - Engineer, maintenance (2024-12-26)

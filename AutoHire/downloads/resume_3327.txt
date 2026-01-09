@@ -1,0 +1,7 @@
+Resume 3327
+Name: Richard Blake
+Phone: (755)492-4367
+Email: zharris@example.net
+Skills: color, possible, trial, across, the
+Education: M.Tech in International, MIT
+Experience: Golden Ltd - Professor Emeritus (2022-05-02)

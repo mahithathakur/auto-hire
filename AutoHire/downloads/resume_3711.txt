@@ -1,0 +1,7 @@
+Resume 3711
+Name: Richard Wallace
+Phone: 257.588.5719
+Email: jdavidson@example.com
+Skills: thousand, better, drop, wall, room
+Education: BS in Recruitment, IIT Bombay
+Experience: Johnson PLC - Scientist, biomedical (2021-10-15)

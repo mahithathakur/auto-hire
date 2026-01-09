@@ -1,0 +1,7 @@
+Resume 453
+Name: Nathan Henry
+Phone: +1-912-534-3526
+Email: mario94@example.org
+Skills: others, pretty, drug, alone, heavy
+Education: BS in Software, MIT
+Experience: Harmon, Mayo and Potter - Freight forwarder (2022-10-13)

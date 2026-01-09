@@ -1,0 +1,7 @@
+Resume 1997
+Name: Steven Perez
+Phone: 517-338-0368x51069
+Email: jamesjones@example.org
+Skills: paper, minute, computer, address, plan
+Education: MBA in Local, MIT
+Experience: Coleman-Pineda - Patent examiner (2021-09-08)

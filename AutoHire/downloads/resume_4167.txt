@@ -1,0 +1,7 @@
+Resume 4167
+Name: James Waters
+Phone: 001-396-518-0648
+Email: jlawrence@example.com
+Skills: clearly, serve, subject, history, create
+Education: B.Tech in Call, NIT Trichy
+Experience: Abbott-Brown - Biomedical engineer (2021-12-29)

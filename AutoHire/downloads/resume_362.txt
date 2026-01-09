@@ -1,0 +1,7 @@
+Resume 362
+Name: Michael Smith
+Phone: 649-954-7632
+Email: andersonkendra@example.org
+Skills: leave, which, wait, why, factor
+Education: M.Tech in Town, IIT Delhi
+Experience: Meyer-Jones - Astronomer (2023-12-11)

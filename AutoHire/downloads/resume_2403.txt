@@ -1,0 +1,7 @@
+Resume 2403
+Name: Amanda Cruz
+Phone: 4999243636
+Email: msullivan@example.net
+Skills: meeting, let, development, talk, which
+Education: BS in IT, Anna University
+Experience: Jackson Inc - Press sub (2020-09-14)

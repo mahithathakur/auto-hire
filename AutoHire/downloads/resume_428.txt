@@ -1,0 +1,7 @@
+Resume 428
+Name: Susan Garcia
+Phone: 459.579.7068
+Email: claycrystal@example.com
+Skills: story, bank, energy, decision, hour
+Education: BA in Retail, IIT Bombay
+Experience: Bryan, Turner and Carter - Development worker, international aid (2022-12-10)

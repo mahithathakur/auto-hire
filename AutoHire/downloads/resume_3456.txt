@@ -1,0 +1,7 @@
+Resume 3456
+Name: Christopher Malone
+Phone: 700-973-6892
+Email: joe87@example.net
+Skills: paper, effort, open, green, drive
+Education: BS in Geoscientist, Anna University
+Experience: Howell Inc - Transport planner (2024-12-24)

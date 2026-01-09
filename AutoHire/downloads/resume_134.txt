@@ -1,0 +1,7 @@
+Resume 134
+Name: Gregory Short
+Phone: (723)855-2823
+Email: juliecox@example.com
+Skills: four, movie, loss, who, clear
+Education: MBA in Biomedical, IIT Delhi
+Experience: Jones-Phillips - Electronics engineer (2021-04-03)

@@ -1,0 +1,7 @@
+Resume 4592
+Name: Edward Johnson
+Phone: 001-559-324-5116
+Email: tgordon@example.org
+Skills: sing, remember, condition, money, even
+Education: MBA in IT, Amity University
+Experience: Gonzalez, Johnson and Ortega - Publishing copy (2021-07-05)

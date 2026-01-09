@@ -1,0 +1,7 @@
+Resume 1000
+Name: Randy Collins
+Phone: 200.255.6769x16225
+Email: mmorris@example.net
+Skills: note, thought, do, space, matter
+Education: M.Tech in Stage, IIT Bombay
+Experience: Robinson Ltd - Chartered management accountant (2024-06-19)

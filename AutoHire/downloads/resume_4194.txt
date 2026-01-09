@@ -1,0 +1,7 @@
+Resume 4194
+Name: John Chavez
+Phone: 242-359-6348
+Email: woodslisa@example.org
+Skills: politics, class, support, professor, may
+Education: M.Tech in Estate, IIT Bombay
+Experience: Cruz-Marshall - Interpreter (2020-07-28)

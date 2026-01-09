@@ -1,0 +1,7 @@
+Resume 67
+Name: Robert Vega
+Phone: 001-203-580-9510x652
+Email: margarethudson@example.org
+Skills: yard, ready, north, side, sit
+Education: BA in Marketing, MIT
+Experience: Sherman, Roth and Lee - Gaffer (2021-11-20)

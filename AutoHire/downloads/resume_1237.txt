@@ -1,0 +1,7 @@
+Resume 1237
+Name: Randall Rodgers
+Phone: +1-540-853-1538
+Email: mhenry@example.org
+Skills: figure, writer, whatever, hear, painting
+Education: BA in Art, NIT Trichy
+Experience: Jennings, Payne and Simpson - Acupuncturist (2020-09-09)

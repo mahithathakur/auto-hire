@@ -1,0 +1,7 @@
+Resume 1282
+Name: Amy Armstrong
+Phone: 001-434-759-4971
+Email: rubenallen@example.net
+Skills: science, final, research, item, half
+Education: M.Tech in Scientist,, Amity University
+Experience: Vazquez-Henry - Surgeon (2020-10-11)

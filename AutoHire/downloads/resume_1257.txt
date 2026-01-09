@@ -1,0 +1,7 @@
+Resume 1257
+Name: John Wright Jr.
+Phone: 474-839-9740
+Email: hamiltonstephen@example.net
+Skills: someone, theory, move, interview, fish
+Education: MBA in Structural, NIT Trichy
+Experience: Rowe-Moore - IT trainer (2023-02-15)

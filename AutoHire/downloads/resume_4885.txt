@@ -1,0 +1,7 @@
+Resume 4885
+Name: Amy Mason
+Phone: 960.375.5496
+Email: morgandaniel@example.net
+Skills: car, message, several, assume, thousand
+Education: BA in Higher, IIT Bombay
+Experience: Carter-Mcfarland - Learning mentor (2023-02-12)

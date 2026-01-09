@@ -1,0 +1,7 @@
+Resume 1211
+Name: Monica Jackson
+Phone: 737-224-5096
+Email: marcia75@example.net
+Skills: return, sometimes, politics, strategy, east
+Education: B.Tech in Civil, University of Oxford
+Experience: Campbell Group - Water quality scientist (2021-05-07)

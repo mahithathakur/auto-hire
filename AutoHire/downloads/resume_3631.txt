@@ -1,0 +1,7 @@
+Resume 3631
+Name: Paul Johnson
+Phone: 668-814-0260
+Email: qprince@example.com
+Skills: glass, often, politics, future, may
+Education: B.Tech in Recycling, Amity University
+Experience: Green LLC - Customer service manager (2024-10-02)

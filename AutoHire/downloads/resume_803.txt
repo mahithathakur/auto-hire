@@ -1,0 +1,7 @@
+Resume 803
+Name: Gregory Keith
+Phone: 818-877-6796
+Email: davidjones@example.net
+Skills: win, space, eight, picture, mention
+Education: BS in Publishing, MIT
+Experience: Hudson Inc - Forest/woodland manager (2022-03-03)

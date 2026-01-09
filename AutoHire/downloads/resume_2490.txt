@@ -1,0 +1,7 @@
+Resume 2490
+Name: Joseph Barnes
+Phone: 777-592-9416
+Email: hross@example.net
+Skills: garden, student, dark, yard, produce
+Education: B.Tech in Theatre, IIT Bombay
+Experience: Jackson, Hernandez and Foster - Museum education officer (2021-02-28)

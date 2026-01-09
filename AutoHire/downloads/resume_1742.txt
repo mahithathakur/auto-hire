@@ -1,0 +1,7 @@
+Resume 1742
+Name: Brian Carter
+Phone: 917.247.9162x3422
+Email: thompsondavid@example.net
+Skills: ten, major, risk, eight, under
+Education: M.Tech in Radiation, IIT Delhi
+Experience: Brown, Edwards and Hood - Pilot, airline (2025-03-15)

@@ -1,0 +1,7 @@
+Resume 3012
+Name: Steven Campbell
+Phone: 594.976.3048
+Email: ojones@example.org
+Skills: too, avoid, operation, other, go
+Education: M.Tech in Technical, IIT Bombay
+Experience: Smith-Brown - Music tutor (2023-02-04)

@@ -1,0 +1,7 @@
+Resume 34
+Name: Samantha Pierce
+Phone: 695.994.0406
+Email: timothyryan@example.net
+Skills: customer, investment, industry, other, history
+Education: B.Tech in Tour, University of Oxford
+Experience: Johnson-Watkins - Set designer (2021-03-21)

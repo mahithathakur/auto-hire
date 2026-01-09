@@ -1,0 +1,7 @@
+Resume 4480
+Name: Christopher Chandler
+Phone: 756-709-6888x693
+Email: qsmith@example.org
+Skills: thing, lose, much, room, bad
+Education: MBA in Armed, MIT
+Experience: Keith Ltd - Systems developer (2022-01-25)

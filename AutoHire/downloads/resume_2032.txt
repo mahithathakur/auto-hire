@@ -1,0 +1,7 @@
+Resume 2032
+Name: Kayla Zhang
+Phone: 232-298-0582
+Email: murphymichelle@example.com
+Skills: computer, including, business, media, think
+Education: BA in Contracting, NIT Trichy
+Experience: Montgomery-Hale - Applications developer (2022-04-30)

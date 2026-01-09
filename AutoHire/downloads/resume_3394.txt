@@ -1,0 +1,7 @@
+Resume 3394
+Name: James Erickson
+Phone: 869-582-2128x01592
+Email: scottwilcox@example.net
+Skills: start, travel, experience, home, address
+Education: BA in Engineer,, Harvard University
+Experience: Allen Ltd - Producer, radio (2022-10-03)

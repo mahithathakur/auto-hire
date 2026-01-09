@@ -1,0 +1,7 @@
+Resume 1019
+Name: David Norris
+Phone: 001-678-720-7285x3623
+Email: davidcoffey@example.org
+Skills: third, against, manager, voice, several
+Education: B.Tech in Pensions, Stanford University
+Experience: Lewis-Long - Production assistant, radio (2023-12-12)

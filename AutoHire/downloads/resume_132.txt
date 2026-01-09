@@ -1,0 +1,7 @@
+Resume 132
+Name: Michael Hobbs
+Phone: 9954111300
+Email: james48@example.org
+Skills: find, crime, sure, set, wind
+Education: MBA in Engineer,, Anna University
+Experience: Jacobs LLC - Accountant, chartered public finance (2025-01-26)

@@ -1,0 +1,7 @@
+Resume 4055
+Name: Julie Stafford
+Phone: 5443519129
+Email: walkercody@example.net
+Skills: list, movement, authority, ability, resource
+Education: B.Tech in Estate, Harvard University
+Experience: Martinez Group - Agricultural consultant (2021-10-22)

@@ -1,0 +1,7 @@
+Resume 2715
+Name: Kristen Nguyen
+Phone: 505-256-1531
+Email: leerobert@example.org
+Skills: yes, level, sense, concern, author
+Education: BS in Fish, IIT Bombay
+Experience: Pham Group - Occupational psychologist (2023-05-29)

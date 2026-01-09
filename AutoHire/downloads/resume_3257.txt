@@ -1,0 +1,7 @@
+Resume 3257
+Name: Jessica Griffin
+Phone: 001-921-499-5832
+Email: taraluna@example.com
+Skills: bar, skill, model, democratic, defense
+Education: B.Tech in Programmer,, MIT
+Experience: Clark-Flores - Tree surgeon (2024-04-06)

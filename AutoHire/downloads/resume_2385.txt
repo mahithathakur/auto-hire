@@ -1,0 +1,7 @@
+Resume 2385
+Name: Christopher Vaughn
+Phone: 732-712-3537
+Email: jenniferlowe@example.org
+Skills: person, red, western, usually, prove
+Education: M.Tech in Garment/textile, University of Oxford
+Experience: Rose-Herrera - Aeronautical engineer (2023-08-09)

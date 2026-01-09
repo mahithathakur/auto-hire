@@ -1,0 +1,7 @@
+Resume 4999
+Name: Taylor Taylor
+Phone: 215-981-9078x80806
+Email: frankmason@example.com
+Skills: effect, return, recognize, drive, through
+Education: B.Tech in Pathologist, Stanford University
+Experience: Willis, Vance and Lindsey - Systems developer (2021-03-19)

@@ -1,0 +1,7 @@
+Resume 4743
+Name: Daniel Murphy
+Phone: 693.536.1903
+Email: ibennett@example.net
+Skills: have, alone, itself, appear, data
+Education: B.Tech in Conservation, Stanford University
+Experience: Kim Group - Technical brewer (2024-10-12)

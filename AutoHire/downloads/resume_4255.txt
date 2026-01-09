@@ -1,0 +1,7 @@
+Resume 4255
+Name: Manuel Pruitt
+Phone: 817-470-5278
+Email: xrowe@example.com
+Skills: against, call, report, meeting, military
+Education: MBA in Financial, Anna University
+Experience: Jones, Hoover and Jones - Legal executive (2020-10-11)

@@ -1,0 +1,7 @@
+Resume 4169
+Name: Michael Patton
+Phone: +1-910-522-7692
+Email: dylan40@example.org
+Skills: either, employee, process, door, never
+Education: B.Tech in Television, Anna University
+Experience: Duncan LLC - Technical sales engineer (2022-07-21)

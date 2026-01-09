@@ -1,0 +1,7 @@
+Resume 128
+Name: James Lopez
+Phone: 458.464.4242
+Email: mindy20@example.net
+Skills: color, traditional, rise, stay, avoid
+Education: BS in Engineer,, NIT Trichy
+Experience: Brown Group - Writer (2022-09-02)

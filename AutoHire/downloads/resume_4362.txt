@@ -1,0 +1,7 @@
+Resume 4362
+Name: Brian Bradford
+Phone: 571-379-5413
+Email: smitheric@example.net
+Skills: win, important, street, standard, easy
+Education: BA in Psychologist,, Amity University
+Experience: Kent, Porter and Mcclure - Energy engineer (2022-04-05)

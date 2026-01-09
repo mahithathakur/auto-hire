@@ -1,0 +1,7 @@
+Resume 85
+Name: Gerald Fuentes
+Phone: 306.947.3273
+Email: jamiemartin@example.org
+Skills: much, sport, once, loss, writer
+Education: BA in Radiographer,, Harvard University
+Experience: Martinez and Sons - Insurance account manager (2025-04-14)

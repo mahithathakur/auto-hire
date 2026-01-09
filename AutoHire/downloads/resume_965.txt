@@ -1,0 +1,7 @@
+Resume 965
+Name: Brian Hogan
+Phone: +1-606-314-9588x1006
+Email: perrytravis@example.org
+Skills: reveal, letter, edge, light, third
+Education: M.Tech in Aid, Anna University
+Experience: Greene Inc - Theatre manager (2021-06-17)

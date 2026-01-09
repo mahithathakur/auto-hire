@@ -1,0 +1,7 @@
+Resume 1980
+Name: Michelle Walker
+Phone: 243.872.1477
+Email: dho@example.net
+Skills: big, sea, hope, significant, whose
+Education: MBA in Sales, Stanford University
+Experience: Howard-Graham - Engineer, technical sales (2023-11-05)

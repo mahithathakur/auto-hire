@@ -1,0 +1,7 @@
+Resume 2729
+Name: David Weber
+Phone: (324)524-3276
+Email: erinwebb@example.org
+Skills: research, course, plan, computer, spring
+Education: BS in Community, Anna University
+Experience: Richardson-Turner - Insurance underwriter (2023-12-02)

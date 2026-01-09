@@ -1,0 +1,7 @@
+Resume 4078
+Name: Randall Owen
+Phone: 734-455-1214
+Email: bdeleon@example.com
+Skills: effort, human, what, find, east
+Education: BS in Field, Harvard University
+Experience: Mccoy PLC - Engineer, electronics (2021-12-31)

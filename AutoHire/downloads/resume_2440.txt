@@ -1,0 +1,7 @@
+Resume 2440
+Name: Elizabeth Thompson
+Phone: 350.229.6285
+Email: johnvaldez@example.com
+Skills: class, believe, place, at, major
+Education: B.Tech in Farm, IIT Delhi
+Experience: Thompson Group - Glass blower/designer (2021-06-30)

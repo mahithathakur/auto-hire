@@ -1,0 +1,7 @@
+Resume 4124
+Name: Edward Lee
+Phone: 001-228-621-0842
+Email: wattsnicolas@example.net
+Skills: half, ever, left, term, should
+Education: BS in Engineer,, NIT Trichy
+Experience: Whitehead-Thomas - Designer, ceramics/pottery (2022-12-20)

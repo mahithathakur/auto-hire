@@ -1,0 +1,7 @@
+Resume 4567
+Name: Andre Williams
+Phone: 564.598.0316
+Email: turnermatthew@example.org
+Skills: stock, sound, everything, speak, character
+Education: B.Tech in Field, Stanford University
+Experience: Thompson, Hopkins and Hernandez - Teaching laboratory technician (2021-12-29)

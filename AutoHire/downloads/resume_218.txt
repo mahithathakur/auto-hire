@@ -1,0 +1,7 @@
+Resume 218
+Name: Daniel Jackson
+Phone: 284.425.9423
+Email: gortiz@example.com
+Skills: better, piece, sing, single, scientist
+Education: MBA in Engineer,, Stanford University
+Experience: Garcia Ltd - Chief Marketing Officer (2022-09-21)

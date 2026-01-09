@@ -1,0 +1,7 @@
+Resume 4268
+Name: Michael Bonilla
+Phone: (530)299-8479
+Email: matthewbowers@example.org
+Skills: either, room, ten, heart, call
+Education: BS in Civil, University of Oxford
+Experience: Baker-Hull - IT technical support officer (2023-09-06)

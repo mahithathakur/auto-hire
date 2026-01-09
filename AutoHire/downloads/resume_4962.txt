@@ -1,0 +1,7 @@
+Resume 4962
+Name: Kevin Huerta
+Phone: 684.254.1465
+Email: tamidavis@example.net
+Skills: say, center, open, where, standard
+Education: M.Tech in Engineer,, Harvard University
+Experience: Smith-Brooks - Clothing/textile technologist (2023-06-07)

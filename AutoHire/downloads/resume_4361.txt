@@ -1,0 +1,7 @@
+Resume 4361
+Name: Ruth Lindsey
+Phone: +1-536-708-4865
+Email: bjohnson@example.org
+Skills: develop, right, short, service, recently
+Education: M.Tech in Media, Amity University
+Experience: Olson PLC - Development worker, community (2022-08-28)

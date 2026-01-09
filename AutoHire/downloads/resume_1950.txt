@@ -1,0 +1,7 @@
+Resume 1950
+Name: Morgan Schmidt
+Phone: 3846178509
+Email: eboyd@example.com
+Skills: itself, size, happen, nature, name
+Education: B.Tech in Economist, University of Oxford
+Experience: Sawyer, Smith and Larson - Radio broadcast assistant (2023-02-16)

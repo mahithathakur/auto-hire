@@ -1,0 +1,7 @@
+Resume 4300
+Name: Jacqueline Tanner
+Phone: 509.371.6504
+Email: codyfrederick@example.com
+Skills: total, interview, tree, movie, as
+Education: BA in Designer,, IIT Bombay
+Experience: Flores-Obrien - Patent examiner (2023-01-19)

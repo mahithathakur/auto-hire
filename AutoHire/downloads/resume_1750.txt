@@ -1,0 +1,7 @@
+Resume 1750
+Name: Travis Moreno
+Phone: 589.612.8042x3053
+Email: victor63@example.com
+Skills: step, middle, start, wrong, grow
+Education: BA in Geophysicist/field, IIT Delhi
+Experience: Ferrell, Harvey and Hanson - Applications developer (2020-12-31)

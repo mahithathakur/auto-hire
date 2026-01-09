@@ -1,0 +1,7 @@
+Resume 2378
+Name: Sean Brooks
+Phone: 366.352.5328
+Email: dford@example.org
+Skills: officer, sell, commercial, common, right
+Education: BA in Interpreter, University of Oxford
+Experience: Jones, Flores and Hoffman - Immigration officer (2021-11-20)

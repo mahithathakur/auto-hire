@@ -1,0 +1,7 @@
+Resume 643
+Name: Rodney Jones
+Phone: 538.952.7836
+Email: jeffreyanderson@example.com
+Skills: investment, discuss, mean, read, firm
+Education: M.Tech in Accountant,, MIT
+Experience: Butler Group - Surveyor, commercial/residential (2020-09-12)

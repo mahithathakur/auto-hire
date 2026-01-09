@@ -1,0 +1,7 @@
+Resume 4876
+Name: David Baker
+Phone: 393.298.4888
+Email: tmack@example.org
+Skills: sign, maybe, perform, magazine, TV
+Education: B.Tech in Engineer,, Stanford University
+Experience: Hill-Rodriguez - Video editor (2023-05-26)

@@ -1,0 +1,7 @@
+Resume 2290
+Name: James Blankenship
+Phone: 5554851225
+Email: pmartinez@example.org
+Skills: town, study, security, college, avoid
+Education: BA in Teacher,, Stanford University
+Experience: Ortiz Inc - Midwife (2024-12-24)

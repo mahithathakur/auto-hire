@@ -1,0 +1,7 @@
+Resume 3286
+Name: Joshua Jones
+Phone: 546.466.5920x1785
+Email: penningtonbrian@example.com
+Skills: city, Mrs, science, them, second
+Education: BA in Higher, Amity University
+Experience: White Ltd - Network engineer (2022-05-09)

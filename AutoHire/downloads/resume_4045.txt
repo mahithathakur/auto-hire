@@ -1,0 +1,7 @@
+Resume 4045
+Name: Mark Rodriguez
+Phone: 782.525.6297
+Email: etaylor@example.com
+Skills: voice, case, serious, wall, serve
+Education: M.Tech in Patent, MIT
+Experience: Sexton-Wilson - Editor, commissioning (2021-07-12)

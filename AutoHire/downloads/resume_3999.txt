@@ -1,0 +1,7 @@
+Resume 3999
+Name: Kimberly Murphy
+Phone: (504)342-5479
+Email: kdavis@example.org
+Skills: ago, far, data, particularly, environmental
+Education: BS in Paramedic, Amity University
+Experience: Anderson, Martinez and Rodriguez - Clinical cytogeneticist (2021-01-19)

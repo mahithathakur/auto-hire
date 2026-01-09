@@ -1,0 +1,7 @@
+Resume 1440
+Name: Amanda Schneider
+Phone: +1-264-423-1336
+Email: ctyler@example.org
+Skills: physical, try, return, edge, civil
+Education: MBA in Fitness, MIT
+Experience: Rice-Fisher - Tax adviser (2021-08-19)

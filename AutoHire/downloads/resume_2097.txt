@@ -1,0 +1,7 @@
+Resume 2097
+Name: Charles Sanchez II
+Phone: 001-707-211-1493
+Email: jtaylor@example.com
+Skills: language, believe, type, again, second
+Education: M.Tech in Management, Harvard University
+Experience: Campbell, Adams and Ellis - Research scientist (maths) (2023-04-21)

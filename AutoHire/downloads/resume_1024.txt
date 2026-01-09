@@ -1,0 +1,7 @@
+Resume 1024
+Name: Andrew Horton
+Phone: 4738702524
+Email: cannonbrian@example.org
+Skills: development, plan, store, color, see
+Education: BA in Clinical, IIT Delhi
+Experience: Parks-Parker - Town planner (2023-06-08)

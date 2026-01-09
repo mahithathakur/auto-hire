@@ -1,0 +1,7 @@
+Resume 830
+Name: Linda Mccoy
+Phone: (466)614-5381x351
+Email: xpierce@example.org
+Skills: future, card, science, movement, race
+Education: B.Tech in Cartographer, Harvard University
+Experience: Chase Ltd - Restaurant manager (2021-10-27)

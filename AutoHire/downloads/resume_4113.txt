@@ -1,0 +1,7 @@
+Resume 4113
+Name: Benjamin Harvey
+Phone: 615.303.9339
+Email: edwardsjustin@example.org
+Skills: make, ok, north, learn, lay
+Education: M.Tech in Barrister, IIT Delhi
+Experience: Brooks-Vargas - Fashion designer (2022-10-07)

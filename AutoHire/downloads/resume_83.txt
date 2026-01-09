@@ -1,0 +1,7 @@
+Resume 83
+Name: Lisa Tyler
+Phone: 610.924.6267
+Email: williammcdaniel@example.org
+Skills: clear, business, brother, happen, send
+Education: BA in Radio, Harvard University
+Experience: King and Sons - Broadcast engineer (2021-01-25)

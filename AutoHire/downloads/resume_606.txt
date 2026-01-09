@@ -1,0 +1,7 @@
+Resume 606
+Name: Richard King
+Phone: 694-753-1517
+Email: chapmanpatricia@example.org
+Skills: talk, artist, town, collection, act
+Education: B.Tech in Dancer, Stanford University
+Experience: Dawson LLC - Psychologist, educational (2021-05-29)

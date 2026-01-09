@@ -1,0 +1,7 @@
+Resume 818
+Name: David Wyatt
+Phone: 258.247.0404
+Email: penaallison@example.com
+Skills: event, professor, region, represent, reach
+Education: B.Tech in Designer,, Harvard University
+Experience: Bauer, Monroe and Stevenson - Scientist, product/process development (2022-07-28)

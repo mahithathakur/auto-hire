@@ -1,0 +1,7 @@
+Resume 3213
+Name: Beth Clark MD
+Phone: (389)661-4425
+Email: swebster@example.com
+Skills: last, word, full, president, able
+Education: BA in Surveyor,, Stanford University
+Experience: Allen-Hughes - Health visitor (2024-02-19)

@@ -1,0 +1,7 @@
+Resume 41
+Name: Stephen Porter
+Phone: 001-549-572-1456
+Email: sabrinadominguez@example.com
+Skills: section, course, area, everything, against
+Education: B.Tech in Early, MIT
+Experience: Burke-Day - Programme researcher, broadcasting/film/video (2024-07-24)

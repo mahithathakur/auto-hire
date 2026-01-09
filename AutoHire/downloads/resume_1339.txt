@@ -1,0 +1,7 @@
+Resume 1339
+Name: Monica Carlson
+Phone: 001-770-442-3635
+Email: ryan79@example.org
+Skills: may, box, dog, team, study
+Education: M.Tech in Engineering, Stanford University
+Experience: Levy-Hodges - Scientist, forensic (2022-07-27)

@@ -1,0 +1,7 @@
+Resume 282
+Name: Michael Smith
+Phone: 759.837.1129
+Email: pottsjamie@example.org
+Skills: force, age, rise, really, sometimes
+Education: MBA in Scientist,, Anna University
+Experience: Alexander, Stewart and Weber - Arts development officer (2021-02-07)

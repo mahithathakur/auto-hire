@@ -1,0 +1,7 @@
+Resume 19
+Name: Amber George
+Phone: 001-380-688-7886
+Email: brandon35@example.com
+Skills: two, financial, house, some, here
+Education: BA in Lobbyist, IIT Delhi
+Experience: Petty-Martin - Politician's assistant (2023-01-01)

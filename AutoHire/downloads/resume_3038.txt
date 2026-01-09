@@ -1,0 +1,7 @@
+Resume 3038
+Name: Dr. Regina Hall DVM
+Phone: 229-481-1919
+Email: rhodesemma@example.com
+Skills: then, since, set, understand, college
+Education: BS in Electrical, University of Oxford
+Experience: Wilkinson-Ballard - Biochemist, clinical (2022-11-17)

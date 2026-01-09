@@ -1,0 +1,7 @@
+Resume 3657
+Name: Brian West
+Phone: 663.717.0589
+Email: stephaniebrown@example.org
+Skills: front, main, manage, common, our
+Education: B.Tech in Financial, Anna University
+Experience: Davis Ltd - Accountant, chartered public finance (2021-01-20)

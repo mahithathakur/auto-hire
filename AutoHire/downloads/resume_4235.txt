@@ -1,0 +1,7 @@
+Resume 4235
+Name: Susan Williams
+Phone: +1-390-544-7779x4220
+Email: njones@example.net
+Skills: red, leader, say, kitchen, treatment
+Education: M.Tech in Teacher,, University of Oxford
+Experience: Moore, Porter and Cooper - Geologist, engineering (2020-11-06)

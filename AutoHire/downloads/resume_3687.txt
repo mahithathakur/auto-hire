@@ -1,0 +1,7 @@
+Resume 3687
+Name: Jamie Hicks
+Phone: (402)602-3636
+Email: yreid@example.org
+Skills: begin, point, quality, thousand, thought
+Education: BA in Television, Harvard University
+Experience: Guerrero, Taylor and Butler - Applications developer (2024-05-08)

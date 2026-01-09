@@ -1,0 +1,7 @@
+Resume 610
+Name: Anita Gonzalez
+Phone: (335)954-8351
+Email: butlerwilliam@example.org
+Skills: east, though, go, effort, standard
+Education: B.Tech in Electronics, MIT
+Experience: Garner Ltd - Fish farm manager (2020-12-29)

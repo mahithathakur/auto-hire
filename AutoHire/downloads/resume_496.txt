@@ -1,0 +1,7 @@
+Resume 496
+Name: Maria Wang
+Phone: 478.348.5711
+Email: rogerssheila@example.net
+Skills: big, design, participant, true, material
+Education: B.Tech in Midwife, NIT Trichy
+Experience: Medina-Munoz - Hydrologist (2022-09-07)

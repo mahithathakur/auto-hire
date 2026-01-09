@@ -1,0 +1,7 @@
+Resume 2110
+Name: Michael Johnson
+Phone: 8627315493
+Email: madams@example.org
+Skills: theory, view, drug, catch, sort
+Education: B.Tech in TEFL, University of Oxford
+Experience: Jones and Sons - Investment banker, operational (2020-11-08)

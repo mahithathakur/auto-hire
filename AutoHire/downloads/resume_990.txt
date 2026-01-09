@@ -1,0 +1,7 @@
+Resume 990
+Name: Travis Jones
+Phone: +1-818-796-2109x4375
+Email: wigginsbrian@example.com
+Skills: city, sit, star, all, play
+Education: BS in Human, Harvard University
+Experience: Day PLC - Field seismologist (2020-12-24)

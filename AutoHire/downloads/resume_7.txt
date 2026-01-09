@@ -1,0 +1,7 @@
+Resume 7
+Name: Angela Boyle
+Phone: (766)222-7447
+Email: sarahtaylor@example.com
+Skills: which, sport, human, part, study
+Education: MBA in Commissioning, Anna University
+Experience: Harris LLC - Financial adviser (2021-06-27)

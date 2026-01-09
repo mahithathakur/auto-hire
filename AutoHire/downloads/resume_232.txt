@@ -1,0 +1,7 @@
+Resume 232
+Name: Travis Lewis
+Phone: 260.578.4391
+Email: jerryrowe@example.com
+Skills: along, especially, watch, air, product
+Education: BS in Programmer,, Stanford University
+Experience: Morgan and Sons - International aid/development worker (2024-12-24)

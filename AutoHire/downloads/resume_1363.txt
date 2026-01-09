@@ -1,0 +1,7 @@
+Resume 1363
+Name: Lisa Russell
+Phone: 710.342.5687
+Email: rparks@example.com
+Skills: moment, face, hundred, red, between
+Education: MBA in Engineer,, University of Oxford
+Experience: Donovan-Ware - Historic buildings inspector/conservation officer (2024-04-19)

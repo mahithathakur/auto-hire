@@ -1,0 +1,7 @@
+Resume 1309
+Name: Patrick Le
+Phone: 541-763-6613
+Email: myersbrian@example.net
+Skills: term, short, yes, above, education
+Education: B.Tech in Senior, NIT Trichy
+Experience: Kent LLC - Building control surveyor (2021-01-07)

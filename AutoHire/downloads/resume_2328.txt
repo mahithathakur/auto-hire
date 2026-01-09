@@ -1,0 +1,7 @@
+Resume 2328
+Name: Peter Smith
+Phone: (995)324-0197
+Email: todd96@example.net
+Skills: design, thought, analysis, through, run
+Education: BA in Conference, Harvard University
+Experience: Moore, May and Martin - Computer games developer (2022-03-22)

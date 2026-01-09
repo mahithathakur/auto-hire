@@ -1,0 +1,7 @@
+Resume 1727
+Name: James Ingram
+Phone: (235)470-2310
+Email: umiller@example.org
+Skills: person, here, recent, both, face
+Education: MBA in Physicist,, Amity University
+Experience: Montgomery, Bowman and Eaton - Teaching laboratory technician (2022-10-03)

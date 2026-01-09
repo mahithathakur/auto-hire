@@ -1,0 +1,7 @@
+Resume 4159
+Name: Pam Andersen
+Phone: 757-635-6420
+Email: kevin54@example.net
+Skills: hotel, main, fall, spring, time
+Education: BS in Local, IIT Delhi
+Experience: Johnson-Morrison - Research scientist (medical) (2023-02-27)

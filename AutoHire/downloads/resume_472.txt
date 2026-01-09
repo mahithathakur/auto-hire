@@ -1,0 +1,7 @@
+Resume 472
+Name: Heather Garcia
+Phone: 3733667504
+Email: parsonschad@example.org
+Skills: institution, week, president, born, quite
+Education: BS in Scientist,, MIT
+Experience: Schmitt Inc - Engineer, manufacturing systems (2023-01-21)

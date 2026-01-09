@@ -1,0 +1,7 @@
+Resume 1963
+Name: Zachary Scott
+Phone: (989)823-0064x3893
+Email: marshnathan@example.org
+Skills: speak, new, history, I, shoulder
+Education: M.Tech in Higher, IIT Delhi
+Experience: Smith, Jones and Henry - Orthoptist (2020-07-18)

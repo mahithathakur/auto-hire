@@ -1,0 +1,7 @@
+Resume 4808
+Name: Bruce Young
+Phone: 852-511-8025x680
+Email: jacksoneric@example.org
+Skills: practice, yes, four, else, follow
+Education: BS in Sub, MIT
+Experience: Allen, Owens and Williams - Theatre manager (2024-06-09)

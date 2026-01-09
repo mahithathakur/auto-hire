@@ -1,0 +1,7 @@
+Resume 1107
+Name: David Myers
+Phone: 781-623-0824
+Email: bgarza@example.org
+Skills: local, family, firm, condition, almost
+Education: MBA in Clinical, Stanford University
+Experience: Alexander-Walker - IT trainer (2023-03-06)

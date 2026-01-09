@@ -1,0 +1,7 @@
+Resume 381
+Name: Daniel Robles
+Phone: +1-314-992-8763x3819
+Email: nathan54@example.org
+Skills: color, type, require, history, add
+Education: M.Tech in Futures, Amity University
+Experience: Fletcher Inc - Product manager (2021-04-12)

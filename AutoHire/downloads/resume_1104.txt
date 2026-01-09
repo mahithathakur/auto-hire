@@ -1,0 +1,7 @@
+Resume 1104
+Name: Laura Brock
+Phone: 001-439-223-4285
+Email: michael15@example.net
+Skills: hot, like, audience, effect, control
+Education: BS in Speech, Anna University
+Experience: Jones, Duncan and George - English as a foreign language teacher (2020-10-21)

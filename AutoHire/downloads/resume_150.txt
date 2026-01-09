@@ -1,0 +1,7 @@
+Resume 150
+Name: Dorothy Hurley
+Phone: 257-689-1279
+Email: john74@example.com
+Skills: past, weight, sell, start, pattern
+Education: BS in Scientist,, Anna University
+Experience: Mccarthy-Li - Producer, television/film/video (2023-02-10)

@@ -1,0 +1,7 @@
+Resume 1215
+Name: John Wade
+Phone: 001-340-693-7385x352
+Email: nfleming@example.org
+Skills: main, nation, meeting, stand, wait
+Education: BA in Administrator,, IIT Delhi
+Experience: Floyd LLC - Photographer (2024-01-25)

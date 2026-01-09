@@ -1,0 +1,7 @@
+Resume 3100
+Name: Adam Lee
+Phone: 226.542.4870
+Email: dianajones@example.org
+Skills: reflect, arrive, animal, instead, compare
+Education: B.Tech in Medical, MIT
+Experience: Rogers, Harmon and Duke - Investment analyst (2021-10-18)

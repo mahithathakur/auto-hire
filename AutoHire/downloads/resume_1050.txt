@@ -1,0 +1,7 @@
+Resume 1050
+Name: Jonathan Morales
+Phone: 206-331-0685x846
+Email: brownmichael@example.org
+Skills: everyone, there, development, fine, sign
+Education: B.Tech in Commercial, University of Oxford
+Experience: Thomas Ltd - Secondary school teacher (2023-05-08)

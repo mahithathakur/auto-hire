@@ -1,0 +1,7 @@
+Resume 379
+Name: Melody Fowler
+Phone: 360.925.8491
+Email: wvargas@example.net
+Skills: interview, focus, crime, result, couple
+Education: BA in General, Harvard University
+Experience: Maxwell LLC - Technical author (2024-09-22)

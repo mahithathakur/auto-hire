@@ -1,0 +1,7 @@
+Resume 732
+Name: Mary Watson
+Phone: (971)927-0421x58294
+Email: clarkluke@example.org
+Skills: travel, step, color, find, professor
+Education: B.Tech in Engineer,, IIT Delhi
+Experience: Rowland, Hughes and Brown - Risk analyst (2022-12-30)

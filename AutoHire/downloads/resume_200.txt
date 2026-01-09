@@ -1,0 +1,7 @@
+Resume 200
+Name: Rodney Fernandez
+Phone: 944-382-8003
+Email: scott16@example.net
+Skills: capital, low, agree, feeling, make
+Education: BA in Merchant, NIT Trichy
+Experience: Willis-Hunter - Sports development officer (2022-02-13)

@@ -1,0 +1,7 @@
+Resume 163
+Name: Brandon Summers
+Phone: 8208764993
+Email: christiandavis@example.com
+Skills: computer, ground, two, particular, fire
+Education: B.Tech in Learning, University of Oxford
+Experience: Grant-Powell - Primary school teacher (2022-03-24)

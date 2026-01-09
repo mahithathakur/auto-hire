@@ -1,0 +1,7 @@
+Resume 2484
+Name: Michael Moore
+Phone: 282-287-5175x8153
+Email: qsmith@example.com
+Skills: moment, head, foreign, past, employee
+Education: M.Tech in Loss, IIT Delhi
+Experience: Johnson PLC - Forensic scientist (2022-07-27)

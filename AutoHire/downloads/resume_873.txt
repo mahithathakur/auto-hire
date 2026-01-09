@@ -1,0 +1,7 @@
+Resume 873
+Name: Robin Jackson
+Phone: 674.742.8641
+Email: sarahhall@example.net
+Skills: food, hold, reason, loss, class
+Education: M.Tech in Speech, Harvard University
+Experience: English and Sons - Plant breeder/geneticist (2021-10-28)

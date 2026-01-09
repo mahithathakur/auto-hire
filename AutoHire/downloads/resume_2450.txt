@@ -1,0 +1,7 @@
+Resume 2450
+Name: Brian Smith
+Phone: 716.558.7508x702
+Email: pattyjackson@example.net
+Skills: have, pass, one, reason, finally
+Education: MBA in Paramedic, IIT Bombay
+Experience: Hawkins, Johnson and Phillips - Engineer, site (2021-12-23)

@@ -1,0 +1,7 @@
+Resume 672
+Name: Heather Jones
+Phone: 274-703-3886x345
+Email: mmiller@example.net
+Skills: amount, even, people, them, oil
+Education: M.Tech in Programmer,, Harvard University
+Experience: Flores Ltd - Research officer, government (2020-09-24)

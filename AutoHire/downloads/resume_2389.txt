@@ -1,0 +1,7 @@
+Resume 2389
+Name: Aaron Taylor
+Phone: (416)385-7989
+Email: joemitchell@example.org
+Skills: range, two, yes, order, staff
+Education: MBA in Training, Harvard University
+Experience: Gregory-Caldwell - Tax adviser (2022-02-27)

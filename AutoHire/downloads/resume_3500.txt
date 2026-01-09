@@ -1,0 +1,7 @@
+Resume 3500
+Name: Barbara Galvan
+Phone: +1-947-387-4912
+Email: khendrix@example.net
+Skills: partner, various, no, maybe, authority
+Education: M.Tech in Insurance, University of Oxford
+Experience: Mitchell LLC - Games developer (2023-05-03)

@@ -1,0 +1,7 @@
+Resume 3333
+Name: Elizabeth Gibbs
+Phone: +1-360-680-0783x022
+Email: thall@example.net
+Skills: space, decision, from, network, foot
+Education: M.Tech in Operational, IIT Bombay
+Experience: Roberts-Herrera - Furniture designer (2021-11-22)

@@ -1,0 +1,7 @@
+Resume 1006
+Name: Patricia Melton
+Phone: 7015856553
+Email: williamsjill@example.net
+Skills: easy, he, lawyer, resource, test
+Education: MBA in Scientist,, IIT Bombay
+Experience: Austin and Sons - Patent attorney (2022-12-02)

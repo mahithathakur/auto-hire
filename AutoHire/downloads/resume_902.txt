@@ -1,0 +1,7 @@
+Resume 902
+Name: Wesley Mcdonald
+Phone: 4206930576
+Email: eking@example.org
+Skills: compare, prevent, hot, possible, light
+Education: M.Tech in Automotive, University of Oxford
+Experience: Hernandez PLC - Engineer, energy (2025-05-03)

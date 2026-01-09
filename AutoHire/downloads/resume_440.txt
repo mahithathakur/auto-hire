@@ -1,0 +1,7 @@
+Resume 440
+Name: Paul White
+Phone: (843)733-8971
+Email: coxjonathan@example.org
+Skills: different, sign, rest, law, Congress
+Education: BS in Medical, MIT
+Experience: White, Huffman and Young - Teaching laboratory technician (2021-11-06)

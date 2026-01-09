@@ -1,0 +1,7 @@
+Resume 4572
+Name: Michael Ellison
+Phone: 321-985-5710
+Email: zachary63@example.org
+Skills: sometimes, simply, year, image, fact
+Education: B.Tech in Prison, IIT Delhi
+Experience: Clark, Brooks and Larsen - Best boy (2021-07-06)

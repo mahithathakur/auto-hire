@@ -1,0 +1,7 @@
+Resume 4022
+Name: Kimberly Peterson
+Phone: 738.893.1239x10205
+Email: johnsondorothy@example.com
+Skills: type, pass, person, paper, it
+Education: B.Tech in Programmer,, Harvard University
+Experience: Johnson-Williams - Chief Strategy Officer (2022-08-15)

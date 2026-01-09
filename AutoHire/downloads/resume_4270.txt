@@ -1,0 +1,7 @@
+Resume 4270
+Name: John Dunlap
+Phone: (892)561-6114
+Email: smithjohn@example.net
+Skills: sister, political, at, term, trade
+Education: B.Tech in Meteorologist, Stanford University
+Experience: Porter, Thompson and Meyers - Barrister (2024-05-19)

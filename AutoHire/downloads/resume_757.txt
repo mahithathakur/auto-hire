@@ -1,0 +1,7 @@
+Resume 757
+Name: Johnny Wagner
+Phone: 6796468396
+Email: iroberts@example.org
+Skills: assume, think, sit, among, push
+Education: BS in Designer,, Anna University
+Experience: Bradley, Barrera and Sanchez - Systems developer (2021-01-03)

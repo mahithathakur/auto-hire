@@ -1,0 +1,7 @@
+Resume 123
+Name: Laura Finley
+Phone: 532-773-7421x1008
+Email: lori10@example.net
+Skills: kind, have, high, almost, design
+Education: BS in Restaurant, IIT Delhi
+Experience: King, Doyle and Gibbs - Field seismologist (2022-07-25)

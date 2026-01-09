@@ -1,0 +1,7 @@
+Resume 415
+Name: John Huang MD
+Phone: 284.859.7442
+Email: sharon86@example.net
+Skills: media, up, research, single, network
+Education: BS in Musician, Harvard University
+Experience: Miller-Harris - Animal technologist (2024-02-17)

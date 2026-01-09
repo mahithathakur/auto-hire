@@ -1,0 +1,7 @@
+Resume 1188
+Name: John Ball
+Phone: 001-356-330-0040x56866
+Email: martindavid@example.com
+Skills: eat, policy, seek, suffer, lawyer
+Education: BS in Product/process, Anna University
+Experience: Smith-Wall - Dramatherapist (2021-08-03)

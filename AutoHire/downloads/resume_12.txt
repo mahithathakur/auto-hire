@@ -1,0 +1,7 @@
+Resume 12
+Name: Mary Allen
+Phone: (579)415-4093
+Email: nortonrebecca@example.org
+Skills: environmental, away, indeed, agreement, better
+Education: B.Tech in Occupational, Stanford University
+Experience: Berry-Pena - Clothing/textile technologist (2020-09-23)

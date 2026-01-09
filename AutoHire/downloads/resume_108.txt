@@ -1,0 +1,7 @@
+Resume 108
+Name: Joseph Jenkins
+Phone: 643.918.2249
+Email: mlynch@example.com
+Skills: lose, up, cover, pull, matter
+Education: BS in Air, Harvard University
+Experience: Graham-Brown - Engineer, technical sales (2025-04-25)

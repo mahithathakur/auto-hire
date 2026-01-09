@@ -1,0 +1,7 @@
+Resume 4007
+Name: Jose Collins
+Phone: +1-366-579-0303
+Email: khunt@example.org
+Skills: myself, make, wear, as, change
+Education: MBA in Podiatrist, Stanford University
+Experience: Martin, Smith and Duran - Landscape architect (2021-02-20)

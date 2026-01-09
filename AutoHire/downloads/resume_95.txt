@@ -1,0 +1,7 @@
+Resume 95
+Name: Eric Barnett
+Phone: (227)878-8041
+Email: tgreen@example.net
+Skills: other, cell, future, free, year
+Education: BS in Television, MIT
+Experience: Rogers-Spencer - Armed forces logistics/support/administrative officer (2021-11-17)

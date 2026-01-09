@@ -1,0 +1,7 @@
+Resume 4444
+Name: Gregory Wilson
+Phone: 001-479-693-4601
+Email: jonesbrittany@example.org
+Skills: need, focus, part, language, southern
+Education: BS in Legal, Stanford University
+Experience: Miller Group - Armed forces operational officer (2021-05-08)

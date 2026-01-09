@@ -1,0 +1,7 @@
+Resume 423
+Name: Joseph Thompson
+Phone: (257)203-0073
+Email: joy81@example.com
+Skills: important, black, land, measure, decision
+Education: BA in Air, Amity University
+Experience: Thompson-Kane - Restaurant manager (2020-08-06)

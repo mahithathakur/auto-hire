@@ -1,0 +1,7 @@
+Resume 213
+Name: Jason Alexander
+Phone: (475)935-4398
+Email: ianjohnson@example.com
+Skills: agency, article, physical, teach, little
+Education: BA in Medical, IIT Bombay
+Experience: Reynolds and Sons - Therapist, sports (2022-02-15)

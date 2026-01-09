@@ -1,0 +1,7 @@
+Resume 137
+Name: Abigail Moore
+Phone: 891.367.2227
+Email: petersonashlee@example.org
+Skills: kind, real, teacher, turn, live
+Education: BA in Geochemist, Anna University
+Experience: Wallace-Levy - Product designer (2022-07-17)

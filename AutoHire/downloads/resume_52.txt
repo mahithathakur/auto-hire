@@ -1,0 +1,7 @@
+Resume 52
+Name: Sara Hensley
+Phone: 2308430902
+Email: lewisdustin@example.net
+Skills: item, beat, west, lawyer, three
+Education: MBA in Conference, Harvard University
+Experience: Coleman PLC - Investment banker, operational (2024-08-18)

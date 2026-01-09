@@ -1,0 +1,7 @@
+Resume 2432
+Name: Gregory Williams
+Phone: 300.880.1822
+Email: gthomas@example.com
+Skills: else, career, raise, assume, travel
+Education: BS in Archaeologist, Harvard University
+Experience: Miller-Winters - Microbiologist (2023-04-03)

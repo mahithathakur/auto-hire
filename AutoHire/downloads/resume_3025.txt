@@ -1,0 +1,7 @@
+Resume 3025
+Name: Daniel Mckenzie
+Phone: 001-383-242-1935x44502
+Email: mary00@example.com
+Skills: read, store, show, daughter, medical
+Education: M.Tech in Building, IIT Bombay
+Experience: Butler, Cruz and Williams - Environmental consultant (2022-10-13)

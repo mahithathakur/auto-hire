@@ -1,0 +1,7 @@
+Resume 2099
+Name: John Hardy
+Phone: 724.234.6407
+Email: lgomez@example.com
+Skills: into, music, teach, religious, thousand
+Education: B.Tech in Armed, IIT Bombay
+Experience: Cole-Bender - Purchasing manager (2022-01-30)

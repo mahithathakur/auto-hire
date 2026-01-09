@@ -1,0 +1,7 @@
+Resume 3506
+Name: Erica Nelson
+Phone: 001-910-670-6028
+Email: ygarcia@example.org
+Skills: scientist, modern, else, energy, young
+Education: BS in Clinical, University of Oxford
+Experience: Pena Inc - Lobbyist (2024-07-09)

@@ -1,0 +1,7 @@
+Resume 1365
+Name: Richard Miller
+Phone: 6888166722
+Email: zsmith@example.com
+Skills: we, phone, summer, order, skin
+Education: MBA in Research, IIT Bombay
+Experience: Hobbs LLC - Teacher, secondary school (2024-12-30)

@@ -1,0 +1,7 @@
+Resume 3785
+Name: Allison Brown
+Phone: 3708475942
+Email: fdyer@example.com
+Skills: my, place, rule, analysis, another
+Education: MBA in Engineer,, Amity University
+Experience: Massey LLC - Production designer, theatre/television/film (2022-06-08)

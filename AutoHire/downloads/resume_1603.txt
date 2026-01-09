@@ -1,0 +1,7 @@
+Resume 1603
+Name: April Turner
+Phone: 798-875-0827x179
+Email: rsmith@example.com
+Skills: type, morning, student, different, bad
+Education: B.Tech in Trading, MIT
+Experience: French, Mitchell and Lindsey - Software engineer (2023-08-19)

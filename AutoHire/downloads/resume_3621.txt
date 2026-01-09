@@ -1,0 +1,7 @@
+Resume 3621
+Name: Randy Leonard
+Phone: 703-547-6553
+Email: morganvasquez@example.com
+Skills: get, drop, do, pay, industry
+Education: B.Tech in Sales, Anna University
+Experience: Rodriguez PLC - Information systems manager (2020-10-25)

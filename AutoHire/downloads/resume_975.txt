@@ -1,0 +1,7 @@
+Resume 975
+Name: Nicholas Stark
+Phone: 5117563026
+Email: juliascott@example.com
+Skills: look, responsibility, leg, sport, effort
+Education: M.Tech in Psychologist,, University of Oxford
+Experience: Woods, Moore and Riley - Insurance account manager (2022-02-06)

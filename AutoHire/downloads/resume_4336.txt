@@ -1,0 +1,7 @@
+Resume 4336
+Name: Jared Combs
+Phone: 461.740.2386
+Email: ujohnson@example.net
+Skills: something, be, story, green, local
+Education: BA in Scientist,, Stanford University
+Experience: Andrews, Aguilar and Oconnor - Hospital pharmacist (2021-05-14)

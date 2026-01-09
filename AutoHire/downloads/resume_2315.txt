@@ -1,0 +1,7 @@
+Resume 2315
+Name: Anthony Lawson
+Phone: 001-351-377-0463
+Email: ihill@example.org
+Skills: hear, within, management, effort, serve
+Education: B.Tech in Health, IIT Bombay
+Experience: Williams, Adkins and Jenkins - Manufacturing systems engineer (2024-01-01)

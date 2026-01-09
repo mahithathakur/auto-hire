@@ -1,0 +1,7 @@
+Resume 308
+Name: Leah Brooks
+Phone: 4937876250
+Email: martinpaul@example.org
+Skills: institution, card, research, article, message
+Education: B.Tech in Architect, Stanford University
+Experience: Ellis, Coleman and Howell - Commercial horticulturist (2023-03-18)

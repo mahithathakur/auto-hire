@@ -1,0 +1,7 @@
+Resume 1106
+Name: Alan Jackson
+Phone: (676)204-9211
+Email: eparker@example.org
+Skills: simple, deep, myself, fish, never
+Education: BS in Engineer,, MIT
+Experience: Vargas-Hernandez - Financial adviser (2021-11-12)

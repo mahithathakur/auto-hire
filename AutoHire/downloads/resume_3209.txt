@@ -1,0 +1,7 @@
+Resume 3209
+Name: Barry Martin
+Phone: 747.879.7951
+Email: ttaylor@example.com
+Skills: social, cold, nothing, hot, teacher
+Education: MBA in Technical, NIT Trichy
+Experience: Dixon, Newman and Pope - Surveyor, rural practice (2024-05-15)

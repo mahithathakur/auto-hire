@@ -1,0 +1,7 @@
+Resume 3789
+Name: Billy Mcneil
+Phone: 743-375-0686
+Email: medinathomas@example.net
+Skills: avoid, yeah, remember, team, cost
+Education: M.Tech in Engineer,, Stanford University
+Experience: Williams, Merritt and Ward - Art gallery manager (2022-07-29)

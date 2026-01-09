@@ -1,0 +1,7 @@
+Resume 227
+Name: Andrea Martinez
+Phone: 757.901.5767
+Email: tvargas@example.net
+Skills: old, attorney, we, before, value
+Education: B.Tech in Psychologist,, Harvard University
+Experience: Smith-Hodges - Chemist, analytical (2020-10-04)

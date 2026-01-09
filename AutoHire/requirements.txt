@@ -1,0 +1,11 @@
+pymongo
+pandas
+xlsxwriter
+pdfplumber
+python-docx
+imaplib2
+pypandoc
+docx2pdf
+python-dotenv
+openpyxl
+scikit-learn

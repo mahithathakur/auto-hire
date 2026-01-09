@@ -1,0 +1,7 @@
+Resume 3684
+Name: Ricky Williams
+Phone: 2678046026
+Email: colemancarol@example.org
+Skills: same, sign, move, rock, store
+Education: B.Tech in Programmer,, Anna University
+Experience: Collins, Rogers and Gaines - Mining engineer (2024-07-13)

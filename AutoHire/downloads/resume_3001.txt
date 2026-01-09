@@ -1,0 +1,7 @@
+Resume 3001
+Name: Devin Diaz
+Phone: 6186999020
+Email: lsantiago@example.org
+Skills: contain, exactly, listen, today, would
+Education: BS in Textile, Harvard University
+Experience: Smith-Lopez - Surveyor, planning and development (2022-11-29)

@@ -1,0 +1,7 @@
+Resume 1478
+Name: Richard King
+Phone: 001-598-991-0007
+Email: zbyrd@example.org
+Skills: movement, environment, center, civil, stay
+Education: MBA in Retail, Stanford University
+Experience: Garrett, Fields and Brown - Consulting civil engineer (2021-03-01)

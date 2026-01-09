@@ -1,0 +1,7 @@
+Resume 783
+Name: Steven Thompson
+Phone: (211)331-5204x0000
+Email: jenkinsbrittany@example.com
+Skills: hard, north, for, scientist, peace
+Education: BS in Education, IIT Delhi
+Experience: Freeman Group - Data scientist (2024-07-14)

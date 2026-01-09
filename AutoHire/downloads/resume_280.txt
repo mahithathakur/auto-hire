@@ -1,0 +1,7 @@
+Resume 280
+Name: Emily Hunter
+Phone: 356-656-9196
+Email: conwaydawn@example.com
+Skills: positive, tell, child, think, show
+Education: B.Tech in Commercial/residential, Harvard University
+Experience: Tyler-Evans - Scientist, product/process development (2024-02-19)

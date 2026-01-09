@@ -1,0 +1,7 @@
+Resume 4326
+Name: John Duran
+Phone: (265)806-7804x8067
+Email: andersonjulie@example.org
+Skills: if, tough, science, debate, town
+Education: B.Tech in Travel, IIT Delhi
+Experience: Cook PLC - Community pharmacist (2022-07-16)

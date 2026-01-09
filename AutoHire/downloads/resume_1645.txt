@@ -1,0 +1,7 @@
+Resume 1645
+Name: Patricia Bailey
+Phone: (959)217-8007
+Email: iflores@example.org
+Skills: employee, impact, center, meet, dog
+Education: BS in Ranger/warden, MIT
+Experience: Spencer-Smith - Control and instrumentation engineer (2022-10-18)

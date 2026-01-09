@@ -1,0 +1,7 @@
+Resume 1497
+Name: Keith Davis
+Phone: 256-378-1456
+Email: lisaconrad@example.org
+Skills: gun, local, remember, wind, grow
+Education: B.Tech in Industrial/product, Stanford University
+Experience: Lane-Hall - Technical brewer (2023-08-28)

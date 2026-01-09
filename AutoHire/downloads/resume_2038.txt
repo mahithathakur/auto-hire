@@ -1,0 +1,7 @@
+Resume 2038
+Name: Jessica King
+Phone: 8477675260
+Email: patrickcollins@example.com
+Skills: history, money, week, suffer, get
+Education: M.Tech in Quarry, University of Oxford
+Experience: Hernandez-Moore - Corporate treasurer (2024-12-24)

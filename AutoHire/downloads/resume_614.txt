@@ -1,0 +1,7 @@
+Resume 614
+Name: Debra Martin
+Phone: 4102456465
+Email: daysteven@example.com
+Skills: face, foot, last, miss, character
+Education: MBA in Scientist,, IIT Delhi
+Experience: Wright-Rodriguez - Theme park manager (2025-01-30)

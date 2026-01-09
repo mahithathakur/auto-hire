@@ -1,0 +1,7 @@
+Resume 4431
+Name: John Curry
+Phone: +1-742-884-0221
+Email: matthew46@example.org
+Skills: reflect, free, development, family, whom
+Education: BS in Astronomer, IIT Bombay
+Experience: Larson-Macias - Community pharmacist (2021-05-01)

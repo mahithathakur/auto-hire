@@ -1,0 +1,7 @@
+Resume 1502
+Name: Sheila Chen
+Phone: 361.578.6124x296
+Email: walvarez@example.com
+Skills: choice, machine, rich, shake, tree
+Education: BS in Pension, Harvard University
+Experience: Taylor-Valdez - Data scientist (2020-07-07)

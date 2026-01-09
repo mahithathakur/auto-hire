@@ -1,0 +1,7 @@
+Resume 2140
+Name: Mr. Paul Harris
+Phone: 696-412-4181
+Email: irogers@example.org
+Skills: wall, inside, bank, tree, program
+Education: BA in Psychologist,, Stanford University
+Experience: Cook, Wright and Mitchell - Engineer, structural (2021-06-16)

@@ -1,0 +1,7 @@
+Resume 4871
+Name: David Shelton
+Phone: 6184122405
+Email: gskinner@example.com
+Skills: get, create, relationship, west, day
+Education: M.Tech in Chief, IIT Bombay
+Experience: Baker, Lowe and Reyes - Passenger transport manager (2021-01-05)

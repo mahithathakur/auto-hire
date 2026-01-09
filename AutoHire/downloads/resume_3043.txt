@@ -1,0 +1,7 @@
+Resume 3043
+Name: Bryan Johnson
+Phone: 3769161159
+Email: grimescody@example.com
+Skills: city, street, heavy, student, amount
+Education: M.Tech in Operations, University of Oxford
+Experience: Sims-Simon - Financial controller (2022-03-01)

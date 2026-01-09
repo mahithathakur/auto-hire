@@ -1,0 +1,7 @@
+Resume 256
+Name: Elizabeth Lindsey
+Phone: 422.832.5730
+Email: fblair@example.org
+Skills: high, game, kid, interest, clear
+Education: BS in Editor,, Harvard University
+Experience: Olson, Lopez and White - Psychologist, occupational (2024-11-03)

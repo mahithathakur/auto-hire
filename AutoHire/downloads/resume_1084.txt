@@ -1,0 +1,7 @@
+Resume 1084
+Name: George Schneider
+Phone: +1-577-787-9560
+Email: matthewkelly@example.com
+Skills: fire, mean, will, evidence, billion
+Education: BS in Medical, IIT Delhi
+Experience: Quinn-Peterson - Production assistant, radio (2022-01-20)

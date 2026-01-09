@@ -1,0 +1,7 @@
+Resume 4103
+Name: Susan King
+Phone: 233.490.3128x215
+Email: hmartin@example.com
+Skills: require, hand, break, senior, offer
+Education: B.Tech in Administrator,, Stanford University
+Experience: Roth, Mcgee and Berry - Prison officer (2023-09-19)

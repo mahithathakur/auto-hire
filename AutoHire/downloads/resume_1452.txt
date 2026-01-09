@@ -1,0 +1,7 @@
+Resume 1452
+Name: Richard Hernandez
+Phone: 7527502656
+Email: christopherhill@example.org
+Skills: reason, dog, general, happen, administration
+Education: B.Tech in Public, IIT Delhi
+Experience: Diaz-Coleman - Communications engineer (2020-07-25)

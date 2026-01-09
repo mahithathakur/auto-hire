@@ -1,0 +1,7 @@
+Resume 3732
+Name: Carl Logan
+Phone: 001-977-416-5528
+Email: umcdonald@example.net
+Skills: street, check, administration, sport, hospital
+Education: MBA in Broadcast, NIT Trichy
+Experience: Garza, Mckee and Williams - Industrial/product designer (2024-04-25)

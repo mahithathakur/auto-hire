@@ -1,0 +1,7 @@
+Resume 241
+Name: Curtis Stevenson
+Phone: 917-290-7388
+Email: eshields@example.com
+Skills: summer, certain, chance, war, happy
+Education: M.Tech in Records, University of Oxford
+Experience: Dean Inc - Education officer, museum (2022-03-10)

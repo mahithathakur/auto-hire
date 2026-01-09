@@ -1,0 +1,7 @@
+Resume 999
+Name: Vincent Oneal
+Phone: 921-907-4184
+Email: hendricksleonard@example.com
+Skills: these, choice, heart, by, probably
+Education: BA in Records, University of Oxford
+Experience: Jones-Lynch - Chief Executive Officer (2020-07-06)

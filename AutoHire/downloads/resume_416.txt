@@ -1,0 +1,7 @@
+Resume 416
+Name: William Mendoza
+Phone: 736-926-3066
+Email: ppatterson@example.com
+Skills: system, amount, buy, ability, might
+Education: M.Tech in Community, MIT
+Experience: Taylor, Mendoza and Lewis - Local government officer (2020-07-05)

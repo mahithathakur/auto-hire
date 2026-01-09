@@ -1,0 +1,7 @@
+Resume 3600
+Name: Paul Smith
+Phone: 282.440.0631x58314
+Email: tracy67@example.org
+Skills: conference, check, truth, experience, card
+Education: B.Tech in Risk, IIT Bombay
+Experience: Pacheco Ltd - Medical physicist (2023-10-31)

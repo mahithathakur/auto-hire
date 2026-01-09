@@ -1,0 +1,7 @@
+Resume 105
+Name: Alex Hughes
+Phone: +1-764-234-3771x43720
+Email: aglass@example.com
+Skills: about, bad, expert, marriage, once
+Education: BA in Designer,, Anna University
+Experience: James Ltd - Product/process development scientist (2023-10-27)

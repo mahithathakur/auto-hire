@@ -1,0 +1,7 @@
+Resume 1012
+Name: Eric Prince
+Phone: 001-485-773-8381
+Email: hlittle@example.com
+Skills: professor, on, paper, discussion, off
+Education: BA in Technical, Amity University
+Experience: Bryant Ltd - Surveyor, rural practice (2021-03-14)

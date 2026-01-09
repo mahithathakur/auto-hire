@@ -1,0 +1,7 @@
+Resume 3215
+Name: Madeline Ross
+Phone: 283.295.9834
+Email: awade@example.net
+Skills: senior, lawyer, material, employee, sing
+Education: MBA in Biomedical, IIT Bombay
+Experience: Baker Group - Public house manager (2023-02-17)

@@ -1,0 +1,7 @@
+Resume 908
+Name: Emily Moss
+Phone: +1-791-249-3672x701
+Email: lmccarthy@example.net
+Skills: write, area, ten, upon, listen
+Education: B.Tech in Biomedical, University of Oxford
+Experience: Johnson, Graham and Kelley - Web designer (2020-11-08)

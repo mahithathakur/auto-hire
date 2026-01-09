@@ -1,0 +1,7 @@
+Resume 3748
+Name: Jim Davis
+Phone: (236)656-5086x347
+Email: gonzalezkyle@example.org
+Skills: interview, red, nor, form, car
+Education: B.Tech in Therapist,, Amity University
+Experience: Gonzalez-Riley - Applications developer (2020-10-16)

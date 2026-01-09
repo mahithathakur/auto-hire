@@ -1,0 +1,7 @@
+Resume 4277
+Name: Brian Collins
+Phone: 612-345-9525
+Email: harrisbrandi@example.org
+Skills: else, continue, quite, treatment, lose
+Education: B.Tech in Metallurgist, Anna University
+Experience: Rice, Washington and Collier - Insurance risk surveyor (2024-02-21)

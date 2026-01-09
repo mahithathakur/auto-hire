@@ -1,0 +1,7 @@
+Resume 4682
+Name: Jacqueline Ferguson
+Phone: 001-492-294-5803
+Email: jlee@example.com
+Skills: population, memory, voice, true, first
+Education: M.Tech in Furniture, Harvard University
+Experience: Carter, Rodriguez and Beard - Geophysicist/field seismologist (2020-10-22)

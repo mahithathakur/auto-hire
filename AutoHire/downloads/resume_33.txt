@@ -1,0 +1,7 @@
+Resume 33
+Name: Zachary Barnett
+Phone: 001-674-769-9008
+Email: ztaylor@example.net
+Skills: body, enough, music, national, or
+Education: B.Tech in Advertising, Stanford University
+Experience: Farrell-Anderson - Adult nurse (2020-11-23)

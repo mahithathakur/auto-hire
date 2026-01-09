@@ -1,0 +1,7 @@
+Resume 1700
+Name: Kenneth Williams
+Phone: (704)263-5227
+Email: rogerskenneth@example.net
+Skills: source, chair, this, air, western
+Education: M.Tech in Hospital, IIT Delhi
+Experience: Gregory and Sons - Doctor, hospital (2021-12-20)

@@ -1,0 +1,7 @@
+Resume 1227
+Name: Candice Holmes
+Phone: +1-733-247-6819
+Email: iwall@example.net
+Skills: describe, seat, listen, low, while
+Education: BS in Fine, University of Oxford
+Experience: Hooper, Silva and Hernandez - Chartered accountant (2022-02-20)

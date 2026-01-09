@@ -1,0 +1,7 @@
+Resume 1415
+Name: Steven Davis
+Phone: (225)770-3172
+Email: srobinson@example.net
+Skills: seem, career, common, year, toward
+Education: BA in Leisure, Stanford University
+Experience: Douglas, Petty and Valdez - Financial planner (2022-02-21)

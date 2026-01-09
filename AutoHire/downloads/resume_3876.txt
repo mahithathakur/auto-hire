@@ -1,0 +1,7 @@
+Resume 3876
+Name: Randy Daniels
+Phone: 705-649-7841
+Email: mmcdaniel@example.com
+Skills: room, team, of, recognize, seven
+Education: BS in Facilities, University of Oxford
+Experience: Miller-Martin - Data processing manager (2020-06-26)

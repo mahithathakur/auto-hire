@@ -1,0 +1,7 @@
+Resume 342
+Name: Ashley Jones
+Phone: 384-695-9270
+Email: murrayjohn@example.com
+Skills: pretty, blood, long, miss, choose
+Education: M.Tech in Learning, Harvard University
+Experience: Lyons PLC - Housing manager/officer (2024-04-26)

@@ -1,0 +1,7 @@
+Resume 302
+Name: John Moore
+Phone: 001-436-305-9465
+Email: qlee@example.org
+Skills: offer, herself, benefit, receive, keep
+Education: MBA in Magazine, MIT
+Experience: Martinez Inc - Surveyor, building (2025-06-01)

@@ -1,0 +1,7 @@
+Resume 3681
+Name: Jaime King
+Phone: 845-226-2255
+Email: jamesblack@example.com
+Skills: pattern, real, practice, drop, least
+Education: BS in Private, IIT Delhi
+Experience: Briggs, Fuller and Huffman - Social worker (2023-01-10)

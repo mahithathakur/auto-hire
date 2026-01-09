@@ -1,0 +1,7 @@
+Resume 697
+Name: Peter Johnson
+Phone: 001-685-748-2525x5537
+Email: dsmith@example.com
+Skills: civil, money, might, over, color
+Education: M.Tech in International, MIT
+Experience: Mcdonald-White - Publishing rights manager (2023-04-26)

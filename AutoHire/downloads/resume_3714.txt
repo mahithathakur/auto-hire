@@ -1,0 +1,7 @@
+Resume 3714
+Name: Brian Stewart
+Phone: 654-280-3261
+Email: wgaines@example.net
+Skills: major, anything, return, ten, include
+Education: MBA in Nurse,, Stanford University
+Experience: Sandoval PLC - Senior tax professional/tax inspector (2025-03-06)

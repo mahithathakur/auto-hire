@@ -1,0 +1,7 @@
+Resume 2206
+Name: Sherri Smith
+Phone: (843)995-4099
+Email: vgray@example.com
+Skills: source, rich, dinner, responsibility, organization
+Education: B.Tech in Therapist,, NIT Trichy
+Experience: Anderson LLC - Dance movement psychotherapist (2022-07-23)

@@ -1,0 +1,7 @@
+Resume 4608
+Name: Jacqueline Johnson
+Phone: 001-636-843-4543x05942
+Email: aaron02@example.org
+Skills: either, able, experience, example, from
+Education: BA in Licensed, Anna University
+Experience: Hughes LLC - Archivist (2022-07-08)

@@ -1,0 +1,7 @@
+Resume 512
+Name: Angela Graves
+Phone: 370.612.5072
+Email: jeanette10@example.net
+Skills: here, well, skill, author, risk
+Education: BS in Geneticist,, Stanford University
+Experience: Sanchez-Gregory - Location manager (2021-01-01)

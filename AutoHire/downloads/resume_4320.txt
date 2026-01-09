@@ -1,0 +1,7 @@
+Resume 4320
+Name: Kayla Thomas
+Phone: 001-443-839-6252
+Email: ashleyfisher@example.net
+Skills: store, lawyer, brother, really, clear
+Education: B.Tech in Research, Amity University
+Experience: Schmidt LLC - Engineer, materials (2021-07-21)

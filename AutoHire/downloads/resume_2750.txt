@@ -1,0 +1,7 @@
+Resume 2750
+Name: Victoria Patterson
+Phone: 924-497-0386
+Email: zwhite@example.org
+Skills: economic, blood, data, defense, strategy
+Education: BS in IT, IIT Delhi
+Experience: Gilmore Group - Dietitian (2023-08-31)

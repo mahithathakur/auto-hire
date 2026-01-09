@@ -1,0 +1,7 @@
+Resume 1912
+Name: Stephanie Johnson
+Phone: 297.647.3923
+Email: mackenziemejia@example.org
+Skills: left, six, upon, office, value
+Education: B.Tech in Colour, IIT Bombay
+Experience: Thomas LLC - Engineer, communications (2025-05-07)

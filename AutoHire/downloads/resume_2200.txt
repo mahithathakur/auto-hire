@@ -1,0 +1,7 @@
+Resume 2200
+Name: Eric Lozano DVM
+Phone: 521.300.4470
+Email: tmartin@example.com
+Skills: sell, fill, phone, guy, keep
+Education: MBA in Hotel, IIT Delhi
+Experience: Haney, Mcconnell and Brown - Radio broadcast assistant (2023-07-31)

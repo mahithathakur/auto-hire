@@ -1,0 +1,7 @@
+Resume 2330
+Name: David Mason
+Phone: 635-867-3722
+Email: jennifer62@example.org
+Skills: blue, purpose, coach, the, course
+Education: BS in Make, IIT Bombay
+Experience: Henson-Davis - Engineer, petroleum (2021-06-29)

@@ -1,0 +1,7 @@
+Resume 3349
+Name: John Lucero
+Phone: 746.729.8008x298
+Email: blamb@example.com
+Skills: key, door, student, expert, myself
+Education: MBA in Chemical, University of Oxford
+Experience: Cervantes Group - Data scientist (2023-11-17)

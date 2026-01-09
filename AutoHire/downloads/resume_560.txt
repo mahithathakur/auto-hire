@@ -1,0 +1,7 @@
+Resume 560
+Name: Amy Jackson
+Phone: 001-210-648-3140x18791
+Email: gabriela36@example.org
+Skills: able, care, fish, point, teacher
+Education: BS in Furniture, IIT Delhi
+Experience: Munoz Inc - Catering manager (2021-04-22)

@@ -1,0 +1,7 @@
+Resume 1003
+Name: Amber Berry
+Phone: +1-625-247-7363
+Email: rgill@example.org
+Skills: scene, car, person, new, cause
+Education: M.Tech in Designer,, Amity University
+Experience: Gardner-Nguyen - Engineer, materials (2022-08-29)

@@ -1,0 +1,7 @@
+Resume 3111
+Name: Andrew Herrera
+Phone: (387)295-5874x322
+Email: khicks@example.org
+Skills: town, artist, product, media, expert
+Education: BS in Teaching, MIT
+Experience: Adams-Brennan - Systems developer (2022-04-01)

@@ -1,0 +1,7 @@
+Resume 2037
+Name: Taylor Watson
+Phone: 001-809-677-0920
+Email: smithmichael@example.com
+Skills: budget, top, at, woman, book
+Education: B.Tech in Airline, IIT Delhi
+Experience: Schultz Inc - Financial risk analyst (2022-02-12)

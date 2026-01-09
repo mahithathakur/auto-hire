@@ -1,0 +1,7 @@
+Resume 945
+Name: Kevin Ruiz
+Phone: 811-211-5964
+Email: carredward@example.org
+Skills: American, dream, bank, necessary, television
+Education: BS in Electronics, MIT
+Experience: Bauer PLC - Maintenance engineer (2025-06-13)

@@ -1,0 +1,7 @@
+Resume 424
+Name: Dr. Christopher Gordon
+Phone: 8557971999
+Email: matthew24@example.com
+Skills: hour, book, picture, project, truth
+Education: B.Tech in Sales, NIT Trichy
+Experience: Jones, Ramos and Edwards - Banker (2023-11-18)

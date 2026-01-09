@@ -1,0 +1,7 @@
+Resume 1993
+Name: Anna Scott
+Phone: +1-750-641-2935
+Email: leblancscott@example.com
+Skills: big, necessary, behind, whose, when
+Education: M.Tech in Solicitor, Harvard University
+Experience: Atkinson Ltd - Geochemist (2023-10-29)

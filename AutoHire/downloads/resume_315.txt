@@ -1,0 +1,7 @@
+Resume 315
+Name: Hailey Porter
+Phone: 619.426.9822
+Email: ihenderson@example.net
+Skills: military, important, sister, run, election
+Education: BS in Scientist,, Harvard University
+Experience: Carlson Inc - Surveyor, planning and development (2022-07-14)

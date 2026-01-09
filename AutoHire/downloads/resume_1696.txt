@@ -1,0 +1,7 @@
+Resume 1696
+Name: George Acevedo
+Phone: 205-528-9373
+Email: robinsoncharles@example.com
+Skills: ground, collection, once, data, compare
+Education: BS in Producer,, University of Oxford
+Experience: Peterson Inc - Engineer, production (2020-10-21)

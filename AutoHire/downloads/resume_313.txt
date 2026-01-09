@@ -1,0 +1,7 @@
+Resume 313
+Name: Joseph Bolton
+Phone: (257)772-3843x7243
+Email: zsullivan@example.com
+Skills: standard, position, gas, play, piece
+Education: M.Tech in Geneticist,, University of Oxford
+Experience: Hamilton Group - Animal nutritionist (2022-12-30)

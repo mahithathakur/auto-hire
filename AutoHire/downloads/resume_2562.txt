@@ -1,0 +1,7 @@
+Resume 2562
+Name: Timothy Mcguire
+Phone: (740)537-1318
+Email: brendajarvis@example.net
+Skills: cover, answer, customer, tough, owner
+Education: BS in Teacher,, IIT Delhi
+Experience: Jenkins-Curtis - Early years teacher (2024-02-01)

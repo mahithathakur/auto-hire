@@ -1,0 +1,7 @@
+Resume 637
+Name: Alexis Schmidt
+Phone: 001-931-435-9043
+Email: alexandersamuel@example.net
+Skills: explain, event, end, be, assume
+Education: B.Tech in Engineer,, MIT
+Experience: Carlson-Thomas - Radiation protection practitioner (2023-02-07)

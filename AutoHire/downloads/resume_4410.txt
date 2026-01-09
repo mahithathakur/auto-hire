@@ -1,0 +1,7 @@
+Resume 4410
+Name: Jake Walters
+Phone: 784-400-2824
+Email: sandraduncan@example.com
+Skills: check, hit, accept, hope, chair
+Education: M.Tech in Automotive, Amity University
+Experience: Robinson-Miller - Human resources officer (2021-10-18)

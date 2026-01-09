@@ -1,0 +1,7 @@
+Resume 921
+Name: Richard Smith
+Phone: 443-288-7612x70445
+Email: vhorne@example.net
+Skills: this, question, hand, require, ago
+Education: M.Tech in Doctor,, University of Oxford
+Experience: Glover-Cook - Engineer, land (2021-01-01)

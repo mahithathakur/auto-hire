@@ -1,0 +1,7 @@
+Resume 4010
+Name: Daniel Gonzales
+Phone: 466.482.3235x7256
+Email: thomas57@example.org
+Skills: in, stand, able, wind, special
+Education: M.Tech in Engineer,, Anna University
+Experience: Smith-Wallace - Scientific laboratory technician (2020-08-23)

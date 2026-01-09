@@ -1,0 +1,7 @@
+Resume 713
+Name: Casey Stewart
+Phone: 616.424.3392
+Email: carlsonpaige@example.net
+Skills: garden, research, last, movie, support
+Education: M.Tech in Geographical, IIT Delhi
+Experience: Porter-Daniels - Geoscientist (2020-08-22)

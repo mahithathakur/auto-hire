@@ -1,0 +1,7 @@
+Resume 130
+Name: Anthony Roth
+Phone: 295-960-2023
+Email: psalinas@example.org
+Skills: course, child, myself, community, car
+Education: BS in Podiatrist, MIT
+Experience: White, Campbell and Acosta - Scientist, research (maths) (2024-02-15)

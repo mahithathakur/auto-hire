@@ -1,0 +1,7 @@
+Resume 3571
+Name: Mark Smith
+Phone: 916.826.3016
+Email: andrewbrewer@example.net
+Skills: plan, everyone, stand, set, experience
+Education: BS in Agricultural, IIT Bombay
+Experience: Curtis, Huang and Phelps - Engineer, maintenance (IT) (2025-04-23)

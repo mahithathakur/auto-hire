@@ -1,0 +1,7 @@
+Resume 4946
+Name: John Harvey
+Phone: 834-360-3311
+Email: tmassey@example.net
+Skills: pass, benefit, some, parent, power
+Education: MBA in Oncologist, MIT
+Experience: Mcdonald-Cook - Arts development officer (2021-06-13)

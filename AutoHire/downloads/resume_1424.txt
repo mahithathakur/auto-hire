@@ -1,0 +1,7 @@
+Resume 1424
+Name: Jasmine Schwartz
+Phone: 222.296.4416
+Email: csimmons@example.com
+Skills: deal, data, up, moment, age
+Education: M.Tech in Librarian,, NIT Trichy
+Experience: Jackson LLC - Broadcast engineer (2021-09-11)

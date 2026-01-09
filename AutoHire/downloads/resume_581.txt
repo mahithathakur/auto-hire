@@ -1,0 +1,7 @@
+Resume 581
+Name: John Smith
+Phone: 609-999-7190x73961
+Email: johnfernandez@example.org
+Skills: field, structure, return, account, fill
+Education: M.Tech in Magazine, Anna University
+Experience: Davidson PLC - Insurance claims handler (2024-11-22)

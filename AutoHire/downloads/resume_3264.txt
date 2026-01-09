@@ -1,0 +1,7 @@
+Resume 3264
+Name: Eric Anderson
+Phone: 282-926-8384
+Email: ewilliams@example.net
+Skills: store, natural, spend, large, month
+Education: BS in Conservator,, MIT
+Experience: Ryan LLC - Fashion designer (2020-06-30)

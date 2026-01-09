@@ -1,0 +1,7 @@
+Resume 2305
+Name: Katherine Schmitt
+Phone: 8747306191
+Email: reesedean@example.com
+Skills: human, person, must, region, race
+Education: BA in Clinical, University of Oxford
+Experience: Franklin, Jenkins and Lara - Therapist, music (2022-08-14)

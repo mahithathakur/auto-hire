@@ -1,0 +1,7 @@
+Resume 3740
+Name: David Banks
+Phone: 4379017206
+Email: jflores@example.com
+Skills: us, international, red, manage, particular
+Education: B.Tech in Chief, Harvard University
+Experience: Davis, Mann and Torres - Clinical psychologist (2023-10-12)

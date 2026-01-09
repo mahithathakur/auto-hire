@@ -1,0 +1,7 @@
+Resume 3151
+Name: Dylan Mckinney
+Phone: 332-362-9187
+Email: lesliedrake@example.com
+Skills: election, drive, trip, general, practice
+Education: MBA in Technical, IIT Bombay
+Experience: Johnson-Flynn - Freight forwarder (2024-07-21)

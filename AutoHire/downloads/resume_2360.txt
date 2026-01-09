@@ -1,0 +1,7 @@
+Resume 2360
+Name: Anthony Collins
+Phone: (320)859-8386
+Email: sstevenson@example.com
+Skills: other, black, west, speak, issue
+Education: MBA in Physicist,, IIT Delhi
+Experience: Clark-Miller - Computer games developer (2022-08-09)

@@ -1,0 +1,7 @@
+Resume 500
+Name: Andrew Woods
+Phone: +1-994-652-0003
+Email: zrose@example.com
+Skills: go, or, development, college, threat
+Education: M.Tech in Psychologist,, NIT Trichy
+Experience: Owens Inc - Petroleum engineer (2024-12-23)

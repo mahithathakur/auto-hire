@@ -1,0 +1,7 @@
+Resume 3040
+Name: Elizabeth Smith
+Phone: 342-859-0426x13153
+Email: smithstacy@example.com
+Skills: resource, day, performance, identify, without
+Education: M.Tech in IT, IIT Delhi
+Experience: Walker, Mejia and Rivera - Data processing manager (2024-12-06)

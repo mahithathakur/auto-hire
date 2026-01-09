@@ -1,0 +1,7 @@
+Resume 3398
+Name: Sarah Melton
+Phone: 841-435-9881
+Email: oscott@example.org
+Skills: mother, glass, between, point, success
+Education: M.Tech in Programmer,, NIT Trichy
+Experience: Nelson, Ortega and Webster - Journalist, newspaper (2022-01-02)

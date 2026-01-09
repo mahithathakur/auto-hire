@@ -1,0 +1,7 @@
+Resume 510
+Name: Brooke Harrison
+Phone: 689-994-6993
+Email: michelebyrd@example.org
+Skills: live, image, example, left, item
+Education: BS in Cartographer, Harvard University
+Experience: Ellis, Rangel and Smith - Doctor, general practice (2023-10-13)

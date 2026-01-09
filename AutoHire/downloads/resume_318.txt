@@ -1,0 +1,7 @@
+Resume 318
+Name: Manuel Barajas
+Phone: 5516986971
+Email: jgarcia@example.com
+Skills: senior, what, seem, fast, really
+Education: BS in Tourism, NIT Trichy
+Experience: Lin PLC - Architect (2021-12-21)

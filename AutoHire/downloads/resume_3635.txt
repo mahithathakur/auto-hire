@@ -1,0 +1,7 @@
+Resume 3635
+Name: Juan Perez
+Phone: 408-655-6685
+Email: randy80@example.org
+Skills: image, kitchen, no, appear, standard
+Education: MBA in Pathologist, Stanford University
+Experience: Green, Moore and Lewis - Mudlogger (2021-12-27)

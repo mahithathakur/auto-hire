@@ -1,0 +1,7 @@
+Resume 4960
+Name: Christopher Blanchard
+Phone: 461.993.0503
+Email: jonesvincent@example.org
+Skills: save, relate, writer, customer, interesting
+Education: B.Tech in Newspaper, IIT Delhi
+Experience: Williams PLC - Furniture conservator/restorer (2021-02-01)

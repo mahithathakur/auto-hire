@@ -1,0 +1,7 @@
+Resume 386
+Name: Lisa Johnson
+Phone: 233.746.9703
+Email: carlsonjoseph@example.org
+Skills: value, that, huge, any, all
+Education: BS in Retail, University of Oxford
+Experience: Rivera, Floyd and Wilson - Designer, graphic (2025-01-09)

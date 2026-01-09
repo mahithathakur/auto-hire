@@ -1,0 +1,7 @@
+Resume 199
+Name: Amanda Cummings
+Phone: 799.265.5157
+Email: josephramirez@example.org
+Skills: size, night, drive, year, low
+Education: BA in Biomedical, MIT
+Experience: Webb, Harding and Jones - Nature conservation officer (2022-03-26)

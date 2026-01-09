@@ -1,0 +1,7 @@
+Resume 452
+Name: Antonio Aguilar
+Phone: 493.724.7617x12303
+Email: jherrera@example.org
+Skills: third, per, lawyer, beyond, citizen
+Education: B.Tech in Primary, Stanford University
+Experience: Tran LLC - Geologist, engineering (2023-05-09)

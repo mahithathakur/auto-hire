@@ -1,0 +1,7 @@
+Resume 2183
+Name: Teresa Gallagher
+Phone: +1-667-259-5772x2436
+Email: vsmith@example.org
+Skills: west, trip, address, author, true
+Education: MBA in Theatre, Amity University
+Experience: Brock and Sons - Designer, furniture (2021-01-22)

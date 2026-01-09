@@ -1,0 +1,7 @@
+Resume 387
+Name: Joshua Holmes
+Phone: 001-278-843-7062x705
+Email: rbrown@example.com
+Skills: water, foreign, morning, address, final
+Education: M.Tech in Programmer,, Anna University
+Experience: West Inc - Waste management officer (2022-01-25)

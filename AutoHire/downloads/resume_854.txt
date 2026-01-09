@@ -1,0 +1,7 @@
+Resume 854
+Name: Mary Cochran
+Phone: 750.417.7891
+Email: ehayes@example.org
+Skills: various, future, exist, address, near
+Education: MBA in Press, IIT Delhi
+Experience: Roberts, Pacheco and Adams - Waste management officer (2020-08-30)

@@ -1,0 +1,7 @@
+Resume 2345
+Name: Susan Harris
+Phone: 774.595.1433x852
+Email: hcarroll@example.com
+Skills: order, coach, among, radio, its
+Education: BS in Cytogeneticist, MIT
+Experience: Ryan, Miller and Jordan - Pathologist (2023-02-14)

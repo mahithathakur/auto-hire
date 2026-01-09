@@ -1,0 +1,7 @@
+Resume 48
+Name: Craig Jones
+Phone: +1-466-948-7929x729
+Email: stonekayla@example.com
+Skills: win, fall, sing, law, study
+Education: MBA in Education, Anna University
+Experience: Martin-Clay - Passenger transport manager (2020-10-17)

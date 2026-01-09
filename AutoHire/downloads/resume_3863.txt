@@ -1,0 +1,7 @@
+Resume 3863
+Name: Susan Walker
+Phone: (846)915-3747
+Email: nelsonnathan@example.com
+Skills: decision, cut, measure, final, report
+Education: BS in Engineer,, University of Oxford
+Experience: Russell-Jones - IT technical support officer (2023-07-10)

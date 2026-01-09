@@ -1,0 +1,7 @@
+Resume 4651
+Name: Jerry Perez
+Phone: 344.637.4983
+Email: psmith@example.net
+Skills: fund, yeah, method, understand, indeed
+Education: BA in Community, NIT Trichy
+Experience: Parsons Inc - Manufacturing systems engineer (2023-07-31)

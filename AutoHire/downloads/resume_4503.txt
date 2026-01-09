@@ -1,0 +1,7 @@
+Resume 4503
+Name: Bruce Willis
+Phone: 7708125281
+Email: arios@example.org
+Skills: least, none, million, establish, add
+Education: BA in Illustrator, Stanford University
+Experience: Black-Watson - Community development worker (2020-09-28)

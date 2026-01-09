@@ -1,0 +1,7 @@
+Resume 4094
+Name: Tanya Harris
+Phone: (363)750-3329x1671
+Email: ibrown@example.com
+Skills: other, skin, professional, easy, box
+Education: BS in Programmer,, Anna University
+Experience: Forbes, Michael and Sutton - Dispensing optician (2021-10-20)

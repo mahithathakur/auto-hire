@@ -1,0 +1,7 @@
+Resume 23
+Name: Courtney Miller
+Phone: 778.416.6573
+Email: chapmansandra@example.com
+Skills: factor, recognize, perform, do, fear
+Education: M.Tech in Retail, Stanford University
+Experience: Espinoza, Mills and Mann - Print production planner (2023-12-03)

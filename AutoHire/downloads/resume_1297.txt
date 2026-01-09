@@ -1,0 +1,7 @@
+Resume 1297
+Name: Michael Brennan
+Phone: +1-886-414-6363
+Email: andreaperry@example.org
+Skills: care, gas, none, young, life
+Education: BA in Systems, Harvard University
+Experience: Harrison-Sanders - Haematologist (2022-09-22)

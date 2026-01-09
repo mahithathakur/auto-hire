@@ -1,0 +1,7 @@
+Resume 3034
+Name: Marcus Vance
+Phone: 284-646-7921
+Email: rmartin@example.com
+Skills: source, last, heavy, sometimes, experience
+Education: BA in Financial, Anna University
+Experience: Mendoza, Armstrong and Johnson - Passenger transport manager (2022-03-29)

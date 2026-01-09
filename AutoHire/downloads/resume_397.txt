@@ -1,0 +1,7 @@
+Resume 397
+Name: Larry Gonzalez
+Phone: 521.664.4243x9802
+Email: higginskevin@example.org
+Skills: physical, maybe, author, election, stage
+Education: BA in Risk, Amity University
+Experience: Robertson, Wells and Olson - Games developer (2021-03-08)

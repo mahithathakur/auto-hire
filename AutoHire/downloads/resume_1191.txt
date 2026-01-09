@@ -1,0 +1,7 @@
+Resume 1191
+Name: Bradley Cook
+Phone: 987-921-8874
+Email: tmassey@example.org
+Skills: sense, present, glass, watch, difference
+Education: B.Tech in Television, University of Oxford
+Experience: Hudson-Scott - Clinical biochemist (2020-12-05)

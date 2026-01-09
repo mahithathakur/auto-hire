@@ -1,0 +1,7 @@
+Resume 1381
+Name: Brent Moreno
+Phone: 638.592.9282
+Email: stephenbrown@example.net
+Skills: next, production, foreign, kitchen, red
+Education: BS in Tourist, Harvard University
+Experience: Underwood LLC - Producer, television/film/video (2022-04-14)

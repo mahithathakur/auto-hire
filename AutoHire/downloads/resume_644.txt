@@ -1,0 +1,7 @@
+Resume 644
+Name: John Walters
+Phone: +1-996-906-9060
+Email: ywiley@example.org
+Skills: past, total, history, enter, range
+Education: BS in Purchasing, Stanford University
+Experience: Carter, Herrera and Moyer - Tour manager (2022-11-04)

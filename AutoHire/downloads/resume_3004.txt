@@ -1,0 +1,7 @@
+Resume 3004
+Name: Amy Rice
+Phone: 3029679415
+Email: jgillespie@example.com
+Skills: education, there, finish, wrong, record
+Education: MBA in Forensic, IIT Delhi
+Experience: Munoz, Monroe and Winters - Media planner (2020-12-07)

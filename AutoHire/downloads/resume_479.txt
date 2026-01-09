@@ -1,0 +1,7 @@
+Resume 479
+Name: James Lewis
+Phone: 001-287-562-6326
+Email: olewis@example.net
+Skills: city, deep, fly, since, film
+Education: BA in Systems, NIT Trichy
+Experience: Smith and Sons - Furniture conservator/restorer (2023-11-26)

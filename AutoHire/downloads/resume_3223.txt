@@ -1,0 +1,7 @@
+Resume 3223
+Name: Ashley Hernandez
+Phone: +1-503-914-5485x115
+Email: matthew67@example.org
+Skills: name, radio, current, subject, social
+Education: M.Tech in Network, IIT Bombay
+Experience: Martin Inc - Camera operator (2022-01-11)

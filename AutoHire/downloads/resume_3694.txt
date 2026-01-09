@@ -1,0 +1,7 @@
+Resume 3694
+Name: Dustin Rodriguez
+Phone: +1-890-657-8242x862
+Email: pbrown@example.com
+Skills: sing, news, suddenly, trouble, role
+Education: BS in Teacher,, IIT Bombay
+Experience: Carroll-Strong - Software engineer (2021-11-16)

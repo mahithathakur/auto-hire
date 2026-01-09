@@ -1,0 +1,7 @@
+Resume 16
+Name: Frank Jennings
+Phone: 2752219919
+Email: kyletorres@example.net
+Skills: officer, church, investment, wonder, game
+Education: BA in Television, Amity University
+Experience: Delgado-Horton - Passenger transport manager (2021-05-23)

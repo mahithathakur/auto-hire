@@ -1,0 +1,7 @@
+Resume 1472
+Name: Paul Green
+Phone: 396.399.1743
+Email: hillnathan@example.net
+Skills: building, again, we, note, another
+Education: B.Tech in Learning, MIT
+Experience: Taylor and Sons - Volunteer coordinator (2022-08-04)

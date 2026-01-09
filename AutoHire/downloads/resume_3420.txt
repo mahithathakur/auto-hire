@@ -1,0 +1,7 @@
+Resume 3420
+Name: Robert Jackson
+Phone: 908-809-8670
+Email: yherrera@example.org
+Skills: black, coach, fire, wide, style
+Education: M.Tech in Quality, MIT
+Experience: Tran-Vincent - Hydrographic surveyor (2021-12-31)

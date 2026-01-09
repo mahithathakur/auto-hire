@@ -1,0 +1,7 @@
+Resume 4565
+Name: Nancy Mckinney
+Phone: 333-323-2116
+Email: ehill@example.net
+Skills: world, someone, radio, movement, high
+Education: M.Tech in Network, MIT
+Experience: Baker, Garcia and Chavez - Engineer, aeronautical (2022-09-27)

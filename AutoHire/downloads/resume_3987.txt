@@ -1,0 +1,7 @@
+Resume 3987
+Name: Sarah Johnson
+Phone: 915.311.8596
+Email: bartletttyler@example.net
+Skills: politics, man, skin, say, away
+Education: M.Tech in Naval, IIT Delhi
+Experience: Ortega Inc - Contractor (2020-09-11)

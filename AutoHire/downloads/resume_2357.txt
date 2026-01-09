@@ -1,0 +1,7 @@
+Resume 2357
+Name: Shaun Schneider
+Phone: +1-505-233-2099
+Email: gordonryan@example.com
+Skills: sport, week, responsibility, dream, bank
+Education: MBA in Designer,, IIT Delhi
+Experience: Pearson, Jenkins and Thomas - Farm manager (2024-01-05)

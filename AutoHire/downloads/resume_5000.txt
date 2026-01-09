@@ -1,0 +1,7 @@
+Resume 5000
+Name: Michael Valentine
+Phone: (434)917-0837
+Email: lskinner@example.net
+Skills: his, money, action, officer, sport
+Education: BS in Community, IIT Delhi
+Experience: Howell-Avila - Probation officer (2024-02-01)

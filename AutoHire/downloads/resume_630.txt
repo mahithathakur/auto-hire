@@ -1,0 +1,7 @@
+Resume 630
+Name: Angela Johnson
+Phone: +1-645-382-5820x50814
+Email: bcarson@example.org
+Skills: case, along, event, production, edge
+Education: B.Tech in Development, Anna University
+Experience: Hicks, Vaughan and Melton - Operational researcher (2024-06-01)

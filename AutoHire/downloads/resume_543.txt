@@ -1,0 +1,7 @@
+Resume 543
+Name: Cheryl Jackson
+Phone: 800-483-3113x9205
+Email: ecarpenter@example.org
+Skills: many, too, black, law, my
+Education: M.Tech in Legal, Harvard University
+Experience: Day Inc - Brewing technologist (2025-02-13)

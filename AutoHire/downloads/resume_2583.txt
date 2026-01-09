@@ -1,0 +1,7 @@
+Resume 2583
+Name: Amanda Jones
+Phone: 9818571207
+Email: stevenperkins@example.com
+Skills: apply, movie, artist, understand, song
+Education: MBA in IT, Harvard University
+Experience: Elliott and Sons - Teacher, English as a foreign language (2022-01-08)

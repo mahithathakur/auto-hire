@@ -1,0 +1,7 @@
+Resume 4590
+Name: Taylor Jennings
+Phone: 202.989.5418
+Email: roconnor@example.com
+Skills: more, many, claim, else, class
+Education: M.Tech in Dentist, Harvard University
+Experience: Yates-White - Art therapist (2024-07-06)

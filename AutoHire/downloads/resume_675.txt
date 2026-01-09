@@ -1,0 +1,7 @@
+Resume 675
+Name: Dr. John Hurley
+Phone: 001-458-502-8785x1499
+Email: elizabeth32@example.com
+Skills: news, mention, politics, more, become
+Education: MBA in Electronics, University of Oxford
+Experience: Moody LLC - Automotive engineer (2022-06-13)

@@ -1,0 +1,7 @@
+Resume 4245
+Name: Garrett Garrett
+Phone: 972-335-3350x073
+Email: ysolomon@example.org
+Skills: necessary, low, likely, black, light
+Education: B.Tech in Holiday, NIT Trichy
+Experience: Jackson-Fernandez - Database administrator (2023-10-05)

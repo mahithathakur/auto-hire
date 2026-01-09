@@ -1,0 +1,7 @@
+Resume 1793
+Name: Alexander Mejia
+Phone: (604)954-1596
+Email: dadams@example.org
+Skills: ask, support, north, law, plant
+Education: M.Tech in Intelligence, Stanford University
+Experience: Jones Group - Mudlogger (2023-11-08)

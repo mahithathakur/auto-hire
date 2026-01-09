@@ -1,0 +1,7 @@
+Resume 524
+Name: Elizabeth Perez
+Phone: 619.956.0054x258
+Email: laura86@example.org
+Skills: like, production, can, cell, recognize
+Education: B.Tech in Maintenance, Amity University
+Experience: Johnson and Sons - Data processing manager (2024-08-04)

@@ -1,0 +1,7 @@
+Resume 499
+Name: Gregory Murphy
+Phone: 906.265.1958
+Email: amanda72@example.org
+Skills: order, partner, forward, which, member
+Education: M.Tech in Best, Harvard University
+Experience: Odonnell-Campbell - Scientist, research (physical sciences) (2021-03-01)

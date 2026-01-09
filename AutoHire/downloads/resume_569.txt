@@ -1,0 +1,7 @@
+Resume 569
+Name: Tracy Tran
+Phone: 979.208.8281
+Email: charris@example.org
+Skills: far, president, not, subject, green
+Education: M.Tech in Pathologist, Harvard University
+Experience: Alvarez Ltd - Ambulance person (2021-08-11)

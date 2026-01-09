@@ -1,0 +1,7 @@
+Resume 1186
+Name: Robert Pierce
+Phone: 4656822587
+Email: kle@example.org
+Skills: final, idea, just, teach, lead
+Education: B.Tech in Architectural, IIT Bombay
+Experience: Harper-Thompson - Paediatric nurse (2024-05-06)

@@ -1,0 +1,7 @@
+Resume 867
+Name: Raymond Fisher
+Phone: 253.952.1330
+Email: lrodriguez@example.org
+Skills: together, book, such, piece, really
+Education: BS in Teacher,, Stanford University
+Experience: Foster-Atkins - Theatre stage manager (2021-10-26)

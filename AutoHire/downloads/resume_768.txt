@@ -1,0 +1,7 @@
+Resume 768
+Name: Charles Lopez
+Phone: 640.871.2175
+Email: anna64@example.net
+Skills: answer, capital, month, material, himself
+Education: BS in Teacher,, IIT Delhi
+Experience: Williams and Sons - Quality manager (2025-05-03)

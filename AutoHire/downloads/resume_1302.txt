@@ -1,0 +1,7 @@
+Resume 1302
+Name: Dr. John Morton
+Phone: 901-367-7604
+Email: anthonycannon@example.org
+Skills: reach, exist, anyone, natural, add
+Education: BS in Forensic, Stanford University
+Experience: Elliott Group - Physiological scientist (2023-07-28)

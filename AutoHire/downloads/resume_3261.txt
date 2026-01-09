@@ -1,0 +1,7 @@
+Resume 3261
+Name: Nicholas Ellis
+Phone: 9219476743
+Email: tanderson@example.com
+Skills: something, life, professional, throughout, guess
+Education: M.Tech in Tax, University of Oxford
+Experience: Jacobs Ltd - Data scientist (2021-02-16)

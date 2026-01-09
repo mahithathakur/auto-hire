@@ -1,0 +1,7 @@
+Resume 2098
+Name: Lori Burns
+Phone: 461.829.6025
+Email: nhodges@example.net
+Skills: statement, class, when, rest, board
+Education: BS in Medical, IIT Delhi
+Experience: Kelley-Bailey - Sales professional, IT (2022-06-02)

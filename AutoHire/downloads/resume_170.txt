@@ -1,0 +1,7 @@
+Resume 170
+Name: Lauren Johnson
+Phone: 787-424-5540
+Email: oglover@example.net
+Skills: information, system, let, its, training
+Education: B.Tech in Journalist,, University of Oxford
+Experience: Conley LLC - Educational psychologist (2020-10-11)

@@ -1,0 +1,7 @@
+Resume 1229
+Name: Glenn Benson
+Phone: 001-736-228-6416
+Email: kevin70@example.org
+Skills: dog, human, eat, consider, pretty
+Education: BA in Medical, Harvard University
+Experience: Golden-Brown - Lawyer (2021-05-12)

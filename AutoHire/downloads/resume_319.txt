@@ -1,0 +1,7 @@
+Resume 319
+Name: Ryan Goodman
+Phone: (223)672-2041
+Email: jacquelinethomas@example.org
+Skills: analysis, look, argue, political, poor
+Education: M.Tech in Clinical, IIT Bombay
+Experience: Marquez, Holmes and Johnson - Programmer, systems (2021-12-02)

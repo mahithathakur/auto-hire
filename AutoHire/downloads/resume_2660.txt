@@ -1,0 +1,7 @@
+Resume 2660
+Name: Lisa Matthews
+Phone: 001-413-414-7813
+Email: matthewwinters@example.com
+Skills: significant, career, summer, follow, must
+Education: BA in Building, Stanford University
+Experience: Kennedy, Thompson and Maddox - Colour technologist (2021-11-30)

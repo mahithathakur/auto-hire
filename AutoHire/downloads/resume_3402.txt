@@ -1,0 +1,7 @@
+Resume 3402
+Name: Terry Kerr
+Phone: +1-931-388-0790x2319
+Email: mollymartinez@example.com
+Skills: true, most, PM, consider, ready
+Education: MBA in Scientist,, IIT Bombay
+Experience: Long-Tyler - Data processing manager (2023-03-15)

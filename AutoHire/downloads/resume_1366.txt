@@ -1,0 +1,7 @@
+Resume 1366
+Name: William Rogers
+Phone: 8402736413
+Email: brian25@example.net
+Skills: indeed, book, strategy, task, foreign
+Education: B.Tech in Air, University of Oxford
+Experience: Harris-Evans - Press photographer (2020-07-15)

@@ -1,0 +1,7 @@
+Resume 899
+Name: James Long
+Phone: +1-516-668-3370x265
+Email: fostercharles@example.net
+Skills: picture, community, another, school, ten
+Education: BS in Engineer,, Harvard University
+Experience: Walker LLC - Advertising account executive (2021-07-02)

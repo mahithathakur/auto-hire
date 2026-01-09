@@ -1,0 +1,7 @@
+Resume 370
+Name: Jeremy Burton
+Phone: 662.548.7946
+Email: vegapaula@example.org
+Skills: work, raise, level, economy, detail
+Education: BA in Equities, Harvard University
+Experience: Jackson-Boyle - Building services engineer (2023-08-05)

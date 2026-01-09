@@ -1,0 +1,7 @@
+Resume 1141
+Name: William Wilson
+Phone: 001-972-476-8617
+Email: chunter@example.org
+Skills: others, ground, half, nothing, year
+Education: MBA in Site, IIT Bombay
+Experience: Carter Inc - Aid worker (2020-11-05)
